@@ -1,0 +1,90 @@
+#!/bin/bash
+
+unset LANG
+
+PIDFILE=$OMD_ROOT/tmp/run/liveproxyd.pid
+DAEMON=$OMD_ROOT/bin/liveproxyd
+THE_PID=$(cat $PIDFILE 2>/dev/null)
+DAEMONOPTS=
+
+. $OMD_ROOT/etc/omd/site.conf
+if [ "$CONFIG_LIVEPROXYD" != on ] ; then
+    exit 5
+fi
+
+case "$1" in
+    start)
+        # Remove soft-limit for open files. Liveproxyd can need *lots*
+        # of open files when you have many sites and many concurrent users.
+        ulimit -S -n unlimited
+        echo -n 'Starting Livestatus Proxy-Daemon...'
+        if kill -0 $THE_PID >/dev/null 2>&1; then
+            echo 'Already running.'
+            exit 0
+        elif $DAEMON $DAEMONOPTS ; then
+            echo OK
+            exit 0
+        else
+            echo Failed
+            exit 1
+        fi
+    ;;
+    stop)
+	echo -n 'Stopping Livestatus Proxy-Daemon...'
+        if [ -z "$THE_PID" ] ; then
+            echo 'Not running.'
+        elif ! kill -0 "$THE_PID" ; then
+            echo 'found stale PID file, not running...'
+            rm -f $PIDFILE
+        else
+            echo -n "killing $THE_PID..."
+            if kill $THE_PID 2>/dev/null; then
+                # Only wait for pidfile removal when the signal could be sent
+                N=0
+                while [ -e "$PIDFILE" ] && kill -0 $THE_PID 2>/dev/null ; do
+                    sleep 0.5
+                    echo -n .
+                    N=$((N + 1))
+                    if [ $N -gt 60 ] ; then
+                        echo "process does not terminate."
+                        exit 1
+                    fi
+                done
+            fi
+            rm -f $PIDFILE
+            echo 'OK'
+        fi
+    ;;
+
+    restart)
+	$0 stop && $0 start
+    ;;
+
+    reload)
+	echo -n 'Reloading Livestatus Proxy-Daemon...'
+        if [ -z "$THE_PID" ] ; then
+            echo 'Not running.'
+            exit 1
+        else
+            echo "killing $THE_PID with SIGUSR1..."
+            kill -USR1 $THE_PID
+        fi
+    ;;
+
+    status)
+	echo -n 'Checking status of Livestatus Proxy-Daemon...'
+        if [ -z "$THE_PID" ] ; then
+            echo "not running (PID file missing)"
+            exit 1
+        elif ! kill -0 $THE_PID ; then
+            echo "not running (PID file stale)"
+            exit 1
+        else
+            echo "running"
+            exit 0
+        fi
+    ;;
+    *)
+	echo "Usage: $0 {start|stop|restart|reload|status|flush}"
+    ;;
+esac

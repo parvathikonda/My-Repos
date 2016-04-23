@@ -1,0 +1,2 @@
+# Run Multisite regular jobs, e.g. scheduled reports
+* * * * * curl http://localhost/Mysite/check_mk/run_cron.py >/dev/null 2>&1

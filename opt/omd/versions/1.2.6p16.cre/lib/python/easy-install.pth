@@ -1,0 +1,8 @@
+import sys; sys.__plen = len(sys.path)
+./pyasn1-0.1.7-py2.7.egg
+./pysnmp-4.2.4-py2.7.egg
+/usr/lib/python2.7/dist-packages
+./pysphere-0.1.7-py2.7.egg
+./simplejson-3.6.5-py2.7-linux-x86_64.egg
+./netsnmp_python-1.0a1-py2.7-linux-x86_64.egg
+import sys; new=sys.path[sys.__plen:]; del sys.path[sys.__plen:]; p=getattr(sys,'__egginsert',0); sys.path[p:p]=new; sys.__egginsert = p+len(new)

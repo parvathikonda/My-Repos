@@ -1,0 +1,6 @@
+{'attributes': {'contactgroups': {'groups': [],
+                                  'recurse_perms': False,
+                                  'recurse_use': False,
+                                  'use': True}},
+ 'num_hosts': 0,
+ 'title': u'Techwave'}

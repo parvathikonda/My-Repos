@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/omd/sites/Mysite/var/log/mknotifyd.log" 2016-4-21-0:0:0
+"/omd/sites/Mysite/var/log/rrdcached.log" 2016-4-23-0:0:1
+"/omd/sites/Mysite/var/log/apache/access_log" 2016-4-23-0:0:1
+"/omd/sites/Mysite/var/log/apache/error_log" 2016-4-23-0:0:1
+"/omd/sites/Mysite/var/nagios/livestatus.log" 2016-4-22-0:0:1
+"/omd/sites/Mysite/var/log/xinetd.log" 2016-4-21-0:0:0
+"/omd/sites/Mysite/var/log/liveproxyd.log" 2016-4-22-0:0:1
+"/omd/sites/Mysite/var/log/notify.log" 2016-4-23-0:0:1
+"/omd/sites/Mysite/var/log/diskspace.log" 2016-4-21-0:0:0
+"/omd/sites/Mysite/var/log/update.log" 2016-4-21-0:0:0
+"/omd/sites/Mysite/var/log/mkeventd.log" 2016-4-21-0:0:0

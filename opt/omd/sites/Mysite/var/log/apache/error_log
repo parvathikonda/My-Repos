@@ -1,0 +1,6 @@
+[Sat Apr 23 00:00:01.784622 2016] [:notice] [pid 17406] mod_python: Creating 8 session mutexes based on 256 max processes and 0 max threads.
+[Sat Apr 23 00:00:01.784634 2016] [:notice] [pid 17406] mod_python: using mutex_directory /tmp 
+[Sat Apr 23 00:00:01.795099 2016] [mpm_prefork:notice] [pid 17406] AH00163: Apache/2.4.7 (Ubuntu) mod_python/3.3.1 Python/2.7.6 mod_fcgid/2.3.9 configured -- resuming normal operations
+[Sat Apr 23 00:00:01.795115 2016] [core:notice] [pid 17406] AH00094: Command line: '/usr/sbin/apache2 -f /omd/sites/Mysite/etc/apache/apache.conf'
+[Sat Apr 23 05:28:08.721911 2016] [:error] [pid 17334] /Mysite/check_mk/ajax_add_visual.py Internal error: 'availability'
+[Sat Apr 23 05:29:21.127606 2016] [:error] [pid 17333] /Mysite/check_mk/ajax_add_visual.py Internal error: 'availability'

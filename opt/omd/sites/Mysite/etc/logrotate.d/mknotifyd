@@ -1,0 +1,7 @@
+/omd/sites/Mysite/var/log/mknotifyd.log {
+	missingok
+	rotate 7
+	compress
+	delaycompress
+	notifempty
+}

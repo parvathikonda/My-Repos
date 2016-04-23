@@ -1,0 +1,396 @@
+=head2 Fri Jan 22 19:04:05 2016: C<Module> L<ExtUtils::MakeMaker|ExtUtils::MakeMaker>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 7.04>
+
+=item *
+
+C<EXE_FILES: bin/instmodsh>
+
+=back
+
+=head2 Fri Jan 22 19:04:06 2016: C<Module> L<parent|parent>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.228>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:08 2016: C<Module> L<version|version>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.9912>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:09 2016: C<Module> L<Module::CoreList|Module::CoreList>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 5.20150120>
+
+=item *
+
+C<EXE_FILES: corelist>
+
+=back
+
+=head2 Fri Jan 22 19:04:10 2016: C<Module> L<common::sense|common::sense>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.73>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:11 2016: C<Module> L<Types::Serialiser|Types::Serialiser>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:17 2016: C<Module> L<JSON|JSON>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.90>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:18 2016: C<Module> L<JSON::PP|JSON::PP>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.27300>
+
+=item *
+
+C<EXE_FILES: bin/json_pp>
+
+=back
+
+=head2 Fri Jan 22 19:04:22 2016: C<Module> L<JSON::XS|JSON::XS>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.01>
+
+=item *
+
+C<EXE_FILES: bin/json_xs>
+
+=back
+
+=head2 Fri Jan 22 19:04:23 2016: C<Module> L<Class::Accessor|Class::Accessor>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:24 2016: C<Module> L<Math::Calc::Units|Math::Calc::Units>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.07>
+
+=item *
+
+C<EXE_FILES: script/ucalc>
+
+=back
+
+=head2 Fri Jan 22 19:04:25 2016: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:27 2016: C<Module> L<Module::Implementation|Module::Implementation>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:31 2016: C<Module> L<Monitoring::Livestatus|Monitoring::Livestatus>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.74>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:32 2016: C<Module> L<Monitoring::Plugin|Monitoring::Plugin>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.38>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:04:33 2016: C<Module> L<Nagios::Plugin|Nagios::Plugin>
+
+=over 4
+
+=item *
+
+C<installed into: /var/tmp/p5_dist/dest/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:13:31 2016: C<Module> L<RRDp|RRDp>
+
+=over 4
+
+=item *
+
+C<installed into: /omd/versions/1.2.6p16.cre/lib/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.99.0>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Fri Jan 22 19:13:31 2016: C<Module> L<RRDs|RRDs>
+
+=over 4
+
+=item *
+
+C<installed into: /omd/versions/1.2.6p16.cre/lib/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4008>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

@@ -1,0 +1,81 @@
+s:4388:"<ul>
+    <!-- BEGIN automap_not_root -->
+    <!-- BEGIN host_or_shape -->
+    <li><a href="javascript:window.location='index.php?mod=Map&act=view&show=[map_name]'+getViewParams({'root':'[name]'}, true);">Make root</a></li>
+    <!-- END host_or_shape -->
+    <!-- END automap_not_root -->
+
+    <!-- BEGIN stateful -->
+    <li><a href="#" onClick="refreshMapObject(event, '[obj_id]'); contextHide();return false">Refresh Status</a></li>
+    <!-- END stateful -->
+
+    <!-- BEGIN not_automap -->
+    <!-- BEGIN stateful -->
+    <li class="spacer"><hr /></li>
+    <!-- END stateful -->
+    <!-- BEGIN permitted_edit -->
+    <li><a href="#" onClick="cloneObject(event, '[obj_id]');contextHide();return false">Clone object</a></li>
+    <!-- BEGIN locked -->
+    <li><a href="#" onClick="toggleMapObjectLock(event, '[obj_id]'); contextHide();return false">Unlock</a></li>
+    <!-- END locked -->
+    <!-- BEGIN unlocked -->
+    <li><a href="#" onClick="toggleMapObjectLock(event, '[obj_id]'); contextHide();return false">Lock</a></li>
+    <li><a href="#" onClick="showAddModifyDialog('[map_name]', '[obj_id]');contextHide();return false">Modify object</a></li>
+    <li><a href="#" onClick="removeMapObject('[obj_id]', 'Really delete the object?');contextHide();return false">Delete object</a></li>
+    <!-- END unlocked -->
+    <!-- END permitted_edit -->
+    <!-- END not_automap -->
+
+    <!-- BEGIN host -->
+    <li class="spacer"><hr /></li>
+    <li><a href="[html_cgi]/cmd.cgi?cmd_typ=55&host=[name]" target="_blank">Schedule Downtime</a></li>
+    <li><a href="[html_cgi]/cmd.cgi?cmd_typ=96&host=[name]&force_check" target="_blank">Re-Schedule next Check</a></li>
+    <!-- BEGIN permitted_perform -->
+    <li><a href="#" onClick="showAckDialog('[map_name]', '[obj_id]');contextHide();return false">Acknowledge</a></li>
+
+    <!-- BEGIN action_rdp -->
+    <li><a href="javascript:void(0)" onClick="window.location=oGeneralProperties.path_server+'?mod=Action&act=custom_action&cmd=rdp&map=[map_name]&object_id=[obj_id]';contextHide();return false">Connect (RDP)</a></li>
+    <!-- END action_rdp -->
+    <!-- BEGIN action_win_ssh -->
+    <li><a href="javascript:void(0)" onClick="window.location=oGeneralProperties.path_server+'?mod=Action&act=custom_action&cmd=win_ssh&map=[map_name]&object_id=[obj_id]';contextHide();return false">Connect (SSH)</a></li>
+    <!-- END action_win_ssh -->
+    <!-- BEGIN action_ssh_url -->
+    <li><a href="ssh://[address]/">Connect (SSH)</a></li>
+    <!-- END action_ssh_url -->
+    <!-- BEGIN action_http -->
+    <li><a href="http://[address]/" target="_blank">Connect (HTTP)</a></li>
+    <!-- END action_http -->
+    <!-- BEGIN action_https -->
+    <li><a href="https://[address]/" target="_blank">Connect (HTTPS)</a></li>
+    <!-- END action_https -->
+
+    <!-- END permitted_perform -->
+    <!-- END host -->
+
+    <!-- BEGIN service -->
+    <li class="spacer"><hr /></li>
+    <li><a href="[html_cgi]/cmd.cgi?cmd_typ=56&host=[name]&service=[service_description]" target="_blank">Schedule Downtime</a></li>
+    <li><a href="[html_cgi]/cmd.cgi?cmd_typ=7&host=[name]&service=[service_description]&force_check" target="_blank">Re-Schedule next Check</a></li>
+    <!-- BEGIN permitted_perform -->
+    <li><a href="javascript:void(0)" onClick="showAckDialog('[map_name]', '[obj_id]');contextHide();return false">Acknowledge</a></li>
+
+    <!-- BEGIN action_rdp -->
+    <li><a href="javascript:void(0)" onClick="window.location=oGeneralProperties.path_server+'?mod=Action&act=custom_action&cmd=rdp&map=[map_name]&object_id=[obj_id]';contextHide();return false">Connect (RDP)</a></li>
+    <!-- END action_rdp -->
+    <!-- BEGIN action_win_ssh -->
+    <li><a href="javascript:void(0)" onClick="window.location=oGeneralProperties.path_server+'?mod=Action&act=custom_action&cmd=win_ssh&map=[map_name]&object_id=[obj_id]';contextHide();return false">Connect (SSH)</a></li>
+    <!-- END action_win_ssh -->
+    <!-- BEGIN action_ssh_url -->
+    <li><a href="ssh://[address]/">Connect (SSH)</a></li>
+    <!-- END action_ssh_url -->
+    <!-- BEGIN action_http -->
+    <li><a href="http://[address]/" target="_blank">Connect (HTTP)</a></li>
+    <!-- END action_http -->
+    <!-- BEGIN action_https -->
+    <li><a href="https://[address]/" target="_blank">Connect (HTTPS)</a></li>
+    <!-- END action_https -->
+
+    <!-- END permitted_perform -->
+    <!-- END service -->
+</ul>
+";

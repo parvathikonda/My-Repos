@@ -1,0 +1,12 @@
+/omd/sites/Mysite/var/log/apache/*_log {
+	missingok
+	rotate 52
+	compress
+	delaycompress
+	notifempty
+	create 640 Mysite Mysite 
+	sharedscripts
+	postrotate
+		/omd/sites/Mysite/etc/init.d/apache reload
+	endscript
+}

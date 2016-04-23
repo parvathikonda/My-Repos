@@ -1,0 +1,365 @@
+1461126843 :172.16.9.129 omdadmin create-host Created new host 172.16.9.129.
+1461127029 - omdadmin edit-hostgroups Create new host group ISB
+1461127066 isb: omdadmin new-folder Created new folder ISB
+1461127074 :172.16.9.129 omdadmin delete-host Deleted host 172.16.9.129
+1461128277 isb:216.12.199.11 omdadmin create-host Created new host 216.12.199.11.
+1461128291 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-28-11.tar
+1461128294 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461128361 - omdadmin edit-hostgroups Create new host group Techwave_Cloud
+1461128381 - omdadmin edit-%sgroups Deleted host group Techwave_Cloud
+1461128407 - omdadmin edit-rule Created new rule in ruleset Assignment of hosts to host groups in folder ISB
+1461128410 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-30-10.tar
+1461128413 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461128436 - omdadmin edit-hostgroups Create new host group Techwave_Cloud
+1461128454 techwave: omdadmin new-folder Created new folder Techwave
+1461128484 - omdadmin edit-rule Created new rule in ruleset Assignment of hosts to host groups in folder Techwave
+1461128490 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-31-29.tar
+1461128492 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461128524 techwave:94.236.108.48 omdadmin create-host Created new host 94.236.108.48.
+1461128538 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-32-18.tar
+1461128540 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461128575 techwave:94.236.108.49 omdadmin create-host Created new host 94.236.108.49.
+1461128591 techwave:94.236.108.50 omdadmin create-host Created new host 94.236.108.50.
+1461128609 techwave:94.236.108.51 omdadmin create-host Created new host 94.236.108.51.
+1461128635 techwave:94.236.108.52 omdadmin create-host Created new host 94.236.108.52.
+1461128656 techwave:94.236.108.53 omdadmin create-host Created new host 94.236.108.53.
+1461128674 techwave:94.236.108.54 omdadmin create-host Created new host 94.236.108.54.
+1461128698 techwave:134.213.185.28 omdadmin create-host Created new host 134.213.185.28.
+1461128735 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-35-34.tar
+1461128738 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461128764 techwave:134.213.185.29 omdadmin create-host Created new host 134.213.185.29.
+1461128789 techwave:134.213.185.28 omdadmin bulk-edit Changed attributes of host 134.213.185.28 in bulk mode
+1461128789 techwave:134.213.185.29 omdadmin bulk-edit Changed attributes of host 134.213.185.29 in bulk mode
+1461128789 techwave:94.236.108.48 omdadmin bulk-edit Changed attributes of host 94.236.108.48 in bulk mode
+1461128789 techwave:94.236.108.49 omdadmin bulk-edit Changed attributes of host 94.236.108.49 in bulk mode
+1461128789 techwave:94.236.108.50 omdadmin bulk-edit Changed attributes of host 94.236.108.50 in bulk mode
+1461128789 techwave:94.236.108.51 omdadmin bulk-edit Changed attributes of host 94.236.108.51 in bulk mode
+1461128789 techwave:94.236.108.52 omdadmin bulk-edit Changed attributes of host 94.236.108.52 in bulk mode
+1461128789 techwave:94.236.108.53 omdadmin bulk-edit Changed attributes of host 94.236.108.53 in bulk mode
+1461128789 techwave:94.236.108.54 omdadmin bulk-edit Changed attributes of host 94.236.108.54 in bulk mode
+1461128796 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-36-36.tar
+1461128798 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461128843 isb:119.81.48.204 omdadmin create-host Created new host 119.81.48.204.
+1461128860 isb:216.12.199.10 omdadmin create-host Created new host 216.12.199.10.
+1461128879 isb:119.81.48.202 omdadmin create-host Created new host 119.81.48.202.
+1461128897 isb:119.81.41.254 omdadmin create-host Created new host 119.81.41.254.
+1461128914 isb:208.43.81.37 omdadmin create-host Created new host 208.43.81.37.
+1461128936 isb:173.193.209.195 omdadmin create-host Created new host 173.193.209.195.
+1461128952 isb:173.193.222.199 omdadmin create-host Created new host 173.193.222.199.
+1461128967 isb:208.43.81.36 omdadmin create-host Created new host 208.43.81.36.
+1461128985 isb:208.43.81.38 omdadmin create-host Created new host 208.43.81.38.
+1461129000 isb:208.43.81.41 omdadmin create-host Created new host 208.43.81.41.
+1461129018 isb:119.81.17.211 omdadmin create-host Created new host 119.81.17.211.
+1461129036 isb:119.81.17.213 omdadmin create-host Created new host 119.81.17.213.
+1461129051 isb:119.81.17.214 omdadmin create-host Created new host 119.81.17.214.
+1461129068 isb:119.81.48.203 omdadmin create-host Created new host 119.81.48.203.
+1461129091 isb:67.228.207.220 omdadmin create-host Created new host 67.228.207.220.
+1461129117 isb:119.81.17.211 omdadmin bulk-edit Changed attributes of host 119.81.17.211 in bulk mode
+1461129117 isb:119.81.17.213 omdadmin bulk-edit Changed attributes of host 119.81.17.213 in bulk mode
+1461129117 isb:119.81.17.214 omdadmin bulk-edit Changed attributes of host 119.81.17.214 in bulk mode
+1461129117 isb:119.81.41.254 omdadmin bulk-edit Changed attributes of host 119.81.41.254 in bulk mode
+1461129117 isb:119.81.48.202 omdadmin bulk-edit Changed attributes of host 119.81.48.202 in bulk mode
+1461129117 isb:119.81.48.203 omdadmin bulk-edit Changed attributes of host 119.81.48.203 in bulk mode
+1461129117 isb:119.81.48.204 omdadmin bulk-edit Changed attributes of host 119.81.48.204 in bulk mode
+1461129117 isb:173.193.209.195 omdadmin bulk-edit Changed attributes of host 173.193.209.195 in bulk mode
+1461129117 isb:173.193.222.199 omdadmin bulk-edit Changed attributes of host 173.193.222.199 in bulk mode
+1461129117 isb:208.43.81.36 omdadmin bulk-edit Changed attributes of host 208.43.81.36 in bulk mode
+1461129117 isb:208.43.81.37 omdadmin bulk-edit Changed attributes of host 208.43.81.37 in bulk mode
+1461129117 isb:208.43.81.38 omdadmin bulk-edit Changed attributes of host 208.43.81.38 in bulk mode
+1461129117 isb:208.43.81.41 omdadmin bulk-edit Changed attributes of host 208.43.81.41 in bulk mode
+1461129117 isb:216.12.199.10 omdadmin bulk-edit Changed attributes of host 216.12.199.10 in bulk mode
+1461129117 isb:216.12.199.11 omdadmin bulk-edit Changed attributes of host 216.12.199.11 in bulk mode
+1461129117 isb:67.228.207.220 omdadmin bulk-edit Changed attributes of host 67.228.207.220 in bulk mode
+1461129123 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-42-03.tar
+1461129126 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461129670 techwave:techwavedr omdadmin create-host Created new host techwavedr.
+1461129703 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-51-43.tar
+1461129705 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461129775 techwave:techwavedr omdadmin bulk-edit Changed attributes of host techwavedr in bulk mode
+1461129777 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-52-57.tar
+1461129780 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461129815 techwave:techwavedr omdadmin bulk-edit Changed attributes of host techwavedr in bulk mode
+1461129819 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-53-39.tar
+1461129821 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461129870 :techwavedr omdadmin delete-host Deleted host techwavedr
+1461129873 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-54-33.tar
+1461129875 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461129979 isb:67.228.207.220 omdadmin edit-host edited properties of host [67.228.207.220]
+1461129983 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-56-23.tar
+1461129987 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461130103 isb:119.81.17.211 omdadmin edit-host edited properties of host [119.81.17.211]
+1461130122 isb:119.81.17.213 omdadmin edit-host edited properties of host [119.81.17.213]
+1461130139 isb:119.81.17.214 omdadmin edit-host edited properties of host [119.81.17.214]
+1461130163 isb:119.81.41.254 omdadmin edit-host edited properties of host [119.81.41.254]
+1461130194 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-10-59-53.tar
+1461130197 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461130260 isb:119.81.48.202 omdadmin edit-host edited properties of host [119.81.48.202]
+1461130275 isb:119.81.48.203 omdadmin edit-host edited properties of host [119.81.48.203]
+1461130285 isb:119.81.48.204 omdadmin edit-host edited properties of host [119.81.48.204]
+1461130291 isb:119.81.48.204 omdadmin edit-host edited properties of host [119.81.48.204]
+1461130305 isb:173.193.209.195 omdadmin edit-host edited properties of host [173.193.209.195]
+1461130334 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-11-02-14.tar
+1461130337 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461130378 isb:173.193.222.199 omdadmin edit-host edited properties of host [173.193.222.199]
+1461130398 isb:208.43.81.36 omdadmin edit-host edited properties of host [208.43.81.36]
+1461130414 isb:208.43.81.37 omdadmin edit-host edited properties of host [208.43.81.37]
+1461130428 isb:208.43.81.38 omdadmin edit-host edited properties of host [208.43.81.38]
+1461130449 isb:208.43.81.41 omdadmin edit-host edited properties of host [208.43.81.41]
+1461130464 isb:216.12.199.10 omdadmin edit-host edited properties of host [216.12.199.10]
+1461130476 isb:216.12.199.11 omdadmin edit-host edited properties of host [216.12.199.11]
+1461130484 isb:216.12.199.11 omdadmin edit-host edited properties of host [216.12.199.11]
+1461130488 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-11-04-48.tar
+1461130491 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461131079 - omdadmin edit-configvar Changed global configuration variable user_localizations to 18 translations.
+1461131125 - omdadmin edit-configvar Changed global configuration variable notification_fallback_email to <i>(No fallback email address configured!)</i>.
+1461131141 - omdadmin edit-configvar Changed global configuration variable mkeventd_notify_contactgroup to Everybody.
+1461131451 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-11-20-50.tar
+1461131452 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461131903 - omdadmin edit-contactgroups Create new contact group Techwave
+1461131919 - omdadmin edit-rule Created new rule in ruleset Assignment of hosts to contact groups in folder ISB
+1461131940 - omdadmin edit-rule Changed properties of rule Assignment of hosts to contact groups, moved rule from folder ISB to Techwave
+1461131943 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-11-29-02.tar
+1461131945 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461132133 - omdadmin edit-users Create new user Techwave
+1461132155 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-11-32-35.tar
+1461132158 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461138520 - omdadmin edit-ruleset Deleted rule in ruleset 'Assignment of hosts to host groups'
+1461138523 - omdadmin edit-ruleset Deleted rule in ruleset 'Assignment of hosts to host groups'
+1461138528 - omdadmin edit-%sgroups Deleted host group ISB
+1461138530 - omdadmin edit-%sgroups Deleted host group Techwave_Cloud
+1461138538 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-18-58.tar
+1461138541 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461138643 - omdadmin edit-hostgroups Create new host group ISB
+1461138691 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-21-31.tar
+1461138693 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461138842 isb:67.228.207.220 omdadmin delete-host Deleted host 67.228.207.220
+1461138871 :119.81.17.211 omdadmin delete-host Deleted host 119.81.17.211
+1461138871 :119.81.17.213 omdadmin delete-host Deleted host 119.81.17.213
+1461138871 :119.81.17.214 omdadmin delete-host Deleted host 119.81.17.214
+1461138871 :119.81.41.254 omdadmin delete-host Deleted host 119.81.41.254
+1461138871 :119.81.48.202 omdadmin delete-host Deleted host 119.81.48.202
+1461138871 :119.81.48.203 omdadmin delete-host Deleted host 119.81.48.203
+1461138871 :119.81.48.204 omdadmin delete-host Deleted host 119.81.48.204
+1461138871 :173.193.209.195 omdadmin delete-host Deleted host 173.193.209.195
+1461138871 :173.193.222.199 omdadmin delete-host Deleted host 173.193.222.199
+1461138871 :208.43.81.36 omdadmin delete-host Deleted host 208.43.81.36
+1461138871 :208.43.81.37 omdadmin delete-host Deleted host 208.43.81.37
+1461138875 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-24-34.tar
+1461138878 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461138895 :208.43.81.38 omdadmin delete-host Deleted host 208.43.81.38
+1461138895 :208.43.81.41 omdadmin delete-host Deleted host 208.43.81.41
+1461138895 :216.12.199.10 omdadmin delete-host Deleted host 216.12.199.10
+1461138895 :216.12.199.11 omdadmin delete-host Deleted host 216.12.199.11
+1461138898 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-24-58.tar
+1461138901 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461138935 :134.213.185.28 omdadmin delete-host Deleted host 134.213.185.28
+1461138935 :134.213.185.29 omdadmin delete-host Deleted host 134.213.185.29
+1461138935 :94.236.108.48 omdadmin delete-host Deleted host 94.236.108.48
+1461138935 :94.236.108.49 omdadmin delete-host Deleted host 94.236.108.49
+1461138935 :94.236.108.50 omdadmin delete-host Deleted host 94.236.108.50
+1461138935 :94.236.108.51 omdadmin delete-host Deleted host 94.236.108.51
+1461138935 :94.236.108.52 omdadmin delete-host Deleted host 94.236.108.52
+1461138935 :94.236.108.53 omdadmin delete-host Deleted host 94.236.108.53
+1461138935 :94.236.108.54 omdadmin delete-host Deleted host 94.236.108.54
+1461138938 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-25-37.tar
+1461138939 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461138973 - omdadmin edit-%sgroups Deleted host group ISB
+1461139609 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-36-48.tar
+1461139612 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461139727 :server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461139731 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-38-50.tar
+1461139744 :server06-new.isb.edu omdadmin delete-host Deleted host server06-new.isb.edu
+1461139748 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-39-08.tar
+1461139750 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461139811 :server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461139815 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-40-14.tar
+1461139817 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461139869 :server06-new.isb.edu omdadmin delete-host Deleted host server06-new.isb.edu
+1461139873 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-41-13.tar
+1461139875 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461139992 isb:server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461140018 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-43-38.tar
+1461140058 isb:server06-new.isb.edu omdadmin edit-host edited properties of host [server06-new.isb.edu]
+1461140061 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-44-21.tar
+1461140141 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-45-41.tar
+1461140151 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-45-50.tar
+1461140159 isb:server06-new.isb.edu omdadmin delete-host Deleted host server06-new.isb.edu
+1461140162 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-46-02.tar
+1461140164 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461140257 - omdadmin edit-hostgroups Create new host group ISB
+1461140280 - omdadmin edit-rule Changed properties of rule Assignment of hosts to host groups, moved rule from folder Main directory to ISB
+1461140285 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-48-05.tar
+1461140288 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461140317 isb:server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461140320 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-48-40.tar
+1461140351 :server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461140365 isb:server06-new.isb.edu omdadmin delete-host Deleted host server06-new.isb.edu
+1461140374 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-13-49-33.tar
+1461140375 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461142390 - omdadmin edit-hostgroups Create new host group TECHWAVE
+1461142394 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-14-23-14.tar
+1461142396 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461142537 :server06-new.isb.edu omdadmin move-host Moved host from  to isb
+1461142541 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-20-14-25-40.tar
+1461142542 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362075 :server06-new.isb.edu omdadmin delete-host Deleted host server06-new.isb.edu
+1461362078 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-24-38.tar
+1461362081 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362188 isb:server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461362194 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-26-34.tar
+1461362212 isb:server06-new.isb.edu omdadmin bulk-edit Changed attributes of host server06-new.isb.edu in bulk mode
+1461362215 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-26-54.tar
+1461362218 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362336 isb:server10.isb.edu omdadmin create-host Created new host server10.isb.edu.
+1461362365 isb:server11.isb.edu omdadmin create-host Created new host server11.isb.edu.
+1461362369 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-29-28.tar
+1461362371 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362403 isb:server3.isb.edu omdadmin create-host Created new host server3.isb.edu.
+1461362431 isb:server7.isb.edu omdadmin create-host Created new host server7.isb.edu.
+1461362433 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-30-33.tar
+1461362437 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362467 isb:win1003539.cas1.isb.edu omdadmin create-host Created new host win1003539.cas1.isb.edu.
+1461362470 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-31-10.tar
+1461362473 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362507 isb:win13540.cas1.isb.edu omdadmin create-host Created new host win13540.cas1.isb.edu.
+1461362534 isb:win14758.sg13.isb.edu omdadmin create-host Created new host win14758.sg13.isb.edu.
+1461362558 isb:win14760.sg13.isb.edu omdadmin create-host Created new host win14760.sg13.isb.edu.
+1461362586 isb:win230.vhostdns.com omdadmin create-host Created new host win230.vhostdns.com.
+1461362588 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-33-08.tar
+1461362591 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362639 isb:ISBEventssrv.isb.edu omdadmin create-host Created new host ISBEventssrv.isb.edu.
+1461362667 isb:ISBPGPSRV.isb.edu omdadmin create-host Created new host ISBPGPSRV.isb.edu.
+1461362691 isb:ISBSNGSRV1.isb.edu omdadmin create-host Created new host ISBSNGSRV1.isb.edu.
+1461362713 isb:ISBSNGSRV2.isb.edu omdadmin create-host Created new host ISBSNGSRV2.isb.edu.
+1461362716 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-35-15.tar
+1461362718 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461362757 isb:server5.isb.edu omdadmin create-host Created new host server5.isb.edu.
+1461362787 isb:firewall-vlan1838.networklayer.com omdadmin create-host Created new host firewall-vlan1838.networklayer.com.
+1461362789 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-03-36-29.tar
+1461362793 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461366750 isb:firewall-vlan1838.networklayer.com omdadmin edit-host edited properties of host [firewall-vlan1838.networklayer.com]
+1461366754 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-42-34.tar
+1461366757 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461366801 isb:ISBEventssrv.isb.edu omdadmin edit-host edited properties of host [ISBEventssrv.isb.edu]
+1461366819 isb:ISBPGPSRV.isb.edu omdadmin edit-host edited properties of host [ISBPGPSRV.isb.edu]
+1461366822 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-43-41.tar
+1461366825 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461366851 isb:ISBSNGSRV1.isb.edu omdadmin edit-host edited properties of host [ISBSNGSRV1.isb.edu]
+1461366866 isb:ISBSNGSRV2.isb.edu omdadmin edit-host edited properties of host [ISBSNGSRV2.isb.edu]
+1461366868 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-44-28.tar
+1461366871 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461366890 isb:server06-new.isb.edu omdadmin edit-host edited properties of host [server06-new.isb.edu]
+1461366907 isb:server10.isb.edu omdadmin edit-host edited properties of host [server10.isb.edu]
+1461366911 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-45-10.tar
+1461366911 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-28-11.tar
+1461366913 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461366939 isb:server7.isb.edu omdadmin edit-host edited properties of host [server7.isb.edu]
+1461366942 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-45-41.tar
+1461366942 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-30-10.tar
+1461366945 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367099 isb:win230.vhostdns.com omdadmin edit-host edited properties of host [win230.vhostdns.com]
+1461367118 isb:win14760.sg13.isb.edu omdadmin edit-host edited properties of host [win14760.sg13.isb.edu]
+1461367121 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-48-40.tar
+1461367121 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-31-29.tar
+1461367123 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367141 isb:win14758.sg13.isb.edu omdadmin edit-host edited properties of host [win14758.sg13.isb.edu]
+1461367143 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-49-03.tar
+1461367143 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-32-18.tar
+1461367145 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367160 isb:win13540.cas1.isb.edu omdadmin edit-host edited properties of host [win13540.cas1.isb.edu]
+1461367163 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-49-22.tar
+1461367163 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-35-34.tar
+1461367165 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367186 isb:win1003539.cas1.isb.edu omdadmin edit-host edited properties of host [win1003539.cas1.isb.edu]
+1461367188 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-49-48.tar
+1461367189 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-36-36.tar
+1461367192 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-49-51.tar
+1461367193 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367265 isb:server11.isb.edu omdadmin edit-host edited properties of host [server11.isb.edu]
+1461367268 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-51-07.tar
+1461367268 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-42-03.tar
+1461367268 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-51-43.tar
+1461367271 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367319 isb:server3.isb.edu omdadmin edit-host edited properties of host [server3.isb.edu]
+1461367322 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-52-01.tar
+1461367322 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-52-57.tar
+1461367324 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367343 isb:server5.isb.edu omdadmin edit-host edited properties of host [server5.isb.edu]
+1461367345 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-52-25.tar
+1461367345 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-53-39.tar
+1461367349 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367366 isb:server7.isb.edu omdadmin edit-host edited properties of host [server7.isb.edu]
+1461367369 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-52-49.tar
+1461367369 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-54-33.tar
+1461367372 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367396 isb:win1003539.cas1.isb.edu omdadmin edit-host edited properties of host [win1003539.cas1.isb.edu]
+1461367399 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-04-53-19.tar
+1461367399 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-56-23.tar
+1461367402 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461367976 :ISBEventssrv.isb.edu omdadmin delete-host Deleted host ISBEventssrv.isb.edu
+1461367976 :ISBPGPSRV.isb.edu omdadmin delete-host Deleted host ISBPGPSRV.isb.edu
+1461367976 :ISBSNGSRV1.isb.edu omdadmin delete-host Deleted host ISBSNGSRV1.isb.edu
+1461367976 :ISBSNGSRV2.isb.edu omdadmin delete-host Deleted host ISBSNGSRV2.isb.edu
+1461367976 :firewall-vlan1838.networklayer.com omdadmin delete-host Deleted host firewall-vlan1838.networklayer.com
+1461367976 :server06-new.isb.edu omdadmin delete-host Deleted host server06-new.isb.edu
+1461367976 :server10.isb.edu omdadmin delete-host Deleted host server10.isb.edu
+1461367976 :server11.isb.edu omdadmin delete-host Deleted host server11.isb.edu
+1461367976 :server3.isb.edu omdadmin delete-host Deleted host server3.isb.edu
+1461367976 :server5.isb.edu omdadmin delete-host Deleted host server5.isb.edu
+1461367976 :server7.isb.edu omdadmin delete-host Deleted host server7.isb.edu
+1461367976 :win1003539.cas1.isb.edu omdadmin delete-host Deleted host win1003539.cas1.isb.edu
+1461367976 :win13540.cas1.isb.edu omdadmin delete-host Deleted host win13540.cas1.isb.edu
+1461367976 :win14758.sg13.isb.edu omdadmin delete-host Deleted host win14758.sg13.isb.edu
+1461367976 :win14760.sg13.isb.edu omdadmin delete-host Deleted host win14760.sg13.isb.edu
+1461367976 :win230.vhostdns.com omdadmin delete-host Deleted host win230.vhostdns.com
+1461367979 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-02-59.tar
+1461367979 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-10-59-53.tar
+1461367982 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368015 isb:ISBEventssrv.isb.edu omdadmin create-host Created new host ISBEventssrv.isb.edu.
+1461368041 isb:ISBPGPSRV.isb.edu omdadmin create-host Created new host ISBPGPSRV.isb.edu.
+1461368064 isb:ISBSNGSRV1.isb.edu omdadmin create-host Created new host ISBSNGSRV1.isb.edu.
+1461368067 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-04-27.tar
+1461368068 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-11-02-14.tar
+1461368070 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368132 isb:ISBSNGSRV2.isb.edu omdadmin create-host Created new host ISBSNGSRV2.isb.edu.
+1461368156 isb:firewall-vlan1838.networklayer.com omdadmin create-host Created new host firewall-vlan1838.networklayer.com.
+1461368178 isb:server06-new.isb.edu omdadmin create-host Created new host server06-new.isb.edu.
+1461368202 isb:server10.isb.edu omdadmin create-host Created new host server10.isb.edu.
+1461368206 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-06-46.tar
+1461368206 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-11-04-48.tar
+1461368208 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368246 isb:server11.isb.edu omdadmin create-host Created new host server11.isb.edu.
+1461368265 isb:server3.isb.edu omdadmin create-host Created new host server3.isb.edu.
+1461368288 isb:server5.isb.edu omdadmin create-host Created new host server5.isb.edu.
+1461368294 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-08-14.tar
+1461368294 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-11-20-50.tar
+1461368297 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368340 isb:ISBEventssrv.isb.edu omdadmin bulk-edit Changed attributes of host ISBEventssrv.isb.edu in bulk mode
+1461368340 isb:ISBPGPSRV.isb.edu omdadmin bulk-edit Changed attributes of host ISBPGPSRV.isb.edu in bulk mode
+1461368340 isb:ISBSNGSRV1.isb.edu omdadmin bulk-edit Changed attributes of host ISBSNGSRV1.isb.edu in bulk mode
+1461368340 isb:ISBSNGSRV2.isb.edu omdadmin bulk-edit Changed attributes of host ISBSNGSRV2.isb.edu in bulk mode
+1461368340 isb:firewall-vlan1838.networklayer.com omdadmin bulk-edit Changed attributes of host firewall-vlan1838.networklayer.com in bulk mode
+1461368340 isb:server06-new.isb.edu omdadmin bulk-edit Changed attributes of host server06-new.isb.edu in bulk mode
+1461368340 isb:server10.isb.edu omdadmin bulk-edit Changed attributes of host server10.isb.edu in bulk mode
+1461368340 isb:server11.isb.edu omdadmin bulk-edit Changed attributes of host server11.isb.edu in bulk mode
+1461368340 isb:server3.isb.edu omdadmin bulk-edit Changed attributes of host server3.isb.edu in bulk mode
+1461368340 isb:server5.isb.edu omdadmin bulk-edit Changed attributes of host server5.isb.edu in bulk mode
+1461368343 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-09-03.tar
+1461368343 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-11-29-02.tar
+1461368347 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368384 isb:server7.isb.edu omdadmin create-host Created new host server7.isb.edu.
+1461368410 isb:win1003539.cas1.isb.edu omdadmin create-host Created new host win1003539.cas1.isb.edu.
+1461368430 isb:win13540.cas1.isb.edu omdadmin create-host Created new host win13540.cas1.isb.edu.
+1461368452 isb:win14758.sg13.isb.edu omdadmin create-host Created new host win14758.sg13.isb.edu.
+1461368455 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-10-54.tar
+1461368455 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-11-32-35.tar
+1461368457 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368489 isb:server11.isb.edu omdadmin edit-host edited properties of host [server11.isb.edu]
+1461368492 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-11-32.tar
+1461368492 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-13-18-58.tar
+1461368495 - omdadmin activate-config Configuration activated, monitoring server restarted
+1461368528 isb:win14760.sg13.isb.edu omdadmin create-host Created new host win14760.sg13.isb.edu.
+1461368548 isb:win230.vhostdns.com omdadmin create-host Created new host win230.vhostdns.com.
+1461368550 - omdadmin snapshot-created Created snapshot wato-snapshot-2016-04-23-05-12-30.tar
+1461368551 - omdadmin snapshot-removed Removed snapshot wato-snapshot-2016-04-20-13-21-31.tar
+1461368553 - omdadmin activate-config Configuration activated, monitoring server restarted

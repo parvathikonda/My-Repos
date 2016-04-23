@@ -1,0 +1,20 @@
+2016-04-22 20:20:57 flushing old values
+2016-04-22 20:20:57 rotating journals
+2016-04-22 20:20:57 started new journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461356457.247923
+2016-04-22 20:20:57 removing old journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461342057.247925
+2016-04-22 22:20:57 flushing old values
+2016-04-22 22:20:57 rotating journals
+2016-04-22 22:20:57 started new journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461363657.247911
+2016-04-22 22:20:57 removing old journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461349257.247954
+2016-04-23 00:20:57 flushing old values
+2016-04-23 00:20:57 rotating journals
+2016-04-23 00:20:57 started new journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461370857.247923
+2016-04-23 00:20:57 removing old journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461356457.247923
+2016-04-23 02:20:57 flushing old values
+2016-04-23 02:20:57 rotating journals
+2016-04-23 02:20:57 started new journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461378057.247930
+2016-04-23 02:20:57 removing old journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461363657.247911
+2016-04-23 04:20:57 flushing old values
+2016-04-23 04:20:57 rotating journals
+2016-04-23 04:20:57 started new journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461385257.247921
+2016-04-23 04:20:57 removing old journal /opt/omd/sites/Mysite/var/rrdcached/rrd.journal.1461370857.247923

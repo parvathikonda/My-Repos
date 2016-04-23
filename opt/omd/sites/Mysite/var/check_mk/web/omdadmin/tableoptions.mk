@@ -1,0 +1,12 @@
+{'auxtags': {},
+ 'av_items': {},
+ 'bi_aggr': {},
+ 'bi_rules': {},
+ 'contactgroups': {},
+ 'edit_views': {},
+ 'hostgroups': {},
+ 'hosts': {'actions_visible': False},
+ 'roles': {},
+ 'snapshots': {},
+ 'users': {'actions_visible': True},
+ 'wato': {}}

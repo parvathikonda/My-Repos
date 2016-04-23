@@ -1,0 +1,17 @@
+/var/tmp/p5_dist/dest/bin/ucalc
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Compute.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Base.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Base2Metric.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Byte.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Combo.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Date.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Distance.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Metric.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Multi.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Convert/Time.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Grammar.pm
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Grammar.y
+/var/tmp/p5_dist/dest/lib/perl5/Math/Calc/Units/Rank.pm
+/var/tmp/p5_dist/dest/man/man3/Math::Calc::Units.3pm

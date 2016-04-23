@@ -1,0 +1,1838 @@
+[1461126057] Nagios 3.5.0 starting... (PID=17368)
+[1461126057] Local time is Wed Apr 20 09:50:57 IST 2016
+[1461126057] LOG VERSION: 2.0
+[1461126057] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461126057] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461126057] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461126057] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461126057] npcdmod: Ready to run to have some fun!
+[1461126057] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461126057] livestatus: Setting number of client threads to 20
+[1461126057] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461126057] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461126057] livestatus: Please visit us at http://mathias-kettner.de/
+[1461126057] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461126057] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461126057] Finished daemonizing... (New PID=17369)
+[1461126057] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461126057] logging initial states
+[1461128292] Caught SIGTERM, shutting down...
+[1461128292] Successfully shutdown... (PID=17369)
+[1461128292] npcdmod: If you don't like me, I will go out! Bye.
+[1461128292] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461128294] livestatus: Socket thread has terminated
+[1461128294] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461128294] Nagios 3.5.0 starting... (PID=18914)
+[1461128294] Local time is Wed Apr 20 10:28:14 IST 2016
+[1461128294] LOG VERSION: 2.0
+[1461128294] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461128294] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461128294] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461128294] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461128294] npcdmod: Ready to run to have some fun!
+[1461128294] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461128294] livestatus: Setting number of client threads to 20
+[1461128294] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461128294] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461128294] livestatus: Please visit us at http://mathias-kettner.de/
+[1461128294] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461128294] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461128294] Finished daemonizing... (New PID=18915)
+[1461128294] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461128294] logging initial states
+[1461128294] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;
+[1461128294] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;(null)
+[1461128411] Caught SIGTERM, shutting down...
+[1461128411] Successfully shutdown... (PID=18915)
+[1461128411] npcdmod: If you don't like me, I will go out! Bye.
+[1461128411] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461128412] livestatus: Socket thread has terminated
+[1461128412] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461128413] Nagios 3.5.0 starting... (PID=19069)
+[1461128413] Local time is Wed Apr 20 10:30:13 IST 2016
+[1461128413] LOG VERSION: 2.0
+[1461128413] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461128413] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461128413] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461128413] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461128413] npcdmod: Ready to run to have some fun!
+[1461128413] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461128413] livestatus: Setting number of client threads to 20
+[1461128413] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461128413] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461128413] livestatus: Please visit us at http://mathias-kettner.de/
+[1461128413] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461128413] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461128413] Finished daemonizing... (New PID=19070)
+[1461128413] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461128413] logging initial states
+[1461128413] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 51.238ms, lost 0%
+[1461128413] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 50.200ms, lost 0%
+[1461128490] Caught SIGTERM, shutting down...
+[1461128490] Successfully shutdown... (PID=19070)
+[1461128490] npcdmod: If you don't like me, I will go out! Bye.
+[1461128490] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461128492] livestatus: Socket thread has terminated
+[1461128492] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461128492] Nagios 3.5.0 starting... (PID=19193)
+[1461128492] Local time is Wed Apr 20 10:31:32 IST 2016
+[1461128492] LOG VERSION: 2.0
+[1461128492] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461128492] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461128492] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461128492] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461128492] npcdmod: Ready to run to have some fun!
+[1461128492] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461128492] livestatus: Setting number of client threads to 20
+[1461128492] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461128492] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461128492] livestatus: Please visit us at http://mathias-kettner.de/
+[1461128492] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461128492] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461128492] Finished daemonizing... (New PID=19194)
+[1461128492] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461128492] logging initial states
+[1461128492] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 50.914ms, lost 0%
+[1461128492] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 53.947ms, lost 0%
+[1461128538] Caught SIGTERM, shutting down...
+[1461128538] Successfully shutdown... (PID=19194)
+[1461128538] npcdmod: If you don't like me, I will go out! Bye.
+[1461128538] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461128540] livestatus: Socket thread has terminated
+[1461128540] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461128540] Nagios 3.5.0 starting... (PID=19311)
+[1461128540] Local time is Wed Apr 20 10:32:20 IST 2016
+[1461128540] LOG VERSION: 2.0
+[1461128540] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461128540] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461128540] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461128540] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461128540] npcdmod: Ready to run to have some fun!
+[1461128540] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461128540] livestatus: Setting number of client threads to 20
+[1461128540] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461128540] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461128540] livestatus: Please visit us at http://mathias-kettner.de/
+[1461128540] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461128540] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461128540] Finished daemonizing... (New PID=19312)
+[1461128540] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461128540] logging initial states
+[1461128540] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 50.914ms, lost 0%
+[1461128540] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;
+[1461128540] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 50.940ms, lost 0%
+[1461128540] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;(null)
+[1461128736] Caught SIGTERM, shutting down...
+[1461128736] Successfully shutdown... (PID=19312)
+[1461128736] npcdmod: If you don't like me, I will go out! Bye.
+[1461128736] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461128737] livestatus: Socket thread has terminated
+[1461128737] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461128738] Nagios 3.5.0 starting... (PID=19631)
+[1461128738] Local time is Wed Apr 20 10:35:38 IST 2016
+[1461128738] LOG VERSION: 2.0
+[1461128738] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461128738] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461128738] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461128738] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461128738] npcdmod: Ready to run to have some fun!
+[1461128738] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461128738] livestatus: Setting number of client threads to 20
+[1461128738] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461128738] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461128738] livestatus: Please visit us at http://mathias-kettner.de/
+[1461128738] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461128738] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461128738] Finished daemonizing... (New PID=19632)
+[1461128738] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461128738] logging initial states
+[1461128738] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;
+[1461128738] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 52.939ms, lost 0%
+[1461128738] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.148ms, lost 0%
+[1461128738] INITIAL HOST STATE: 94.236.108.49;UP;HARD;1;
+[1461128738] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;
+[1461128738] INITIAL HOST STATE: 94.236.108.51;UP;HARD;1;
+[1461128738] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;
+[1461128738] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;
+[1461128738] INITIAL HOST STATE: 94.236.108.54;UP;HARD;1;
+[1461128738] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 52.584ms, lost 0%
+[1461128738] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.183ms, lost 0%
+[1461128738] INITIAL SERVICE STATE: 94.236.108.49;PING;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 94.236.108.51;PING;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 94.236.108.54;Check_MK Discovery;OK;HARD;1;(null)
+[1461128738] INITIAL SERVICE STATE: 94.236.108.54;PING;OK;HARD;1;(null)
+[1461128748] HOST ALERT: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461128748] HOST NOTIFICATION: check-mk-notify;94.236.108.49;DOWN;check-mk-notify;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461128762] HOST ALERT: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461128762] HOST NOTIFICATION: check-mk-notify;94.236.108.51;DOWN;check-mk-notify;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461128782] HOST ALERT: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461128782] HOST NOTIFICATION: check-mk-notify;94.236.108.54;DOWN;check-mk-notify;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461128797] Caught SIGTERM, shutting down...
+[1461128797] Successfully shutdown... (PID=19632)
+[1461128797] npcdmod: If you don't like me, I will go out! Bye.
+[1461128797] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461128797] livestatus: Socket thread has terminated
+[1461128797] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461128798] Nagios 3.5.0 starting... (PID=19794)
+[1461128798] Local time is Wed Apr 20 10:36:38 IST 2016
+[1461128798] LOG VERSION: 2.0
+[1461128798] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461128798] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461128798] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461128798] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461128798] npcdmod: Ready to run to have some fun!
+[1461128798] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461128798] livestatus: Setting number of client threads to 20
+[1461128798] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461128798] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461128798] livestatus: Please visit us at http://mathias-kettner.de/
+[1461128798] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461128798] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461128798] Finished daemonizing... (New PID=19795)
+[1461128798] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461128798] logging initial states
+[1461128798] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.721ms, lost 0%
+[1461128798] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;
+[1461128798] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 55.496ms, lost 0%
+[1461128798] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.217ms, lost 0%
+[1461128798] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461128798] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 137.697ms, lost 0%
+[1461128798] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461128798] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.765ms, lost 0%
+[1461128798] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 143.641ms, lost 0%
+[1461128798] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461128798] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;
+[1461128798] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;(null)
+[1461128798] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 60.869ms, lost 0%
+[1461128798] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.172ms, lost 0%
+[1461128798] INITIAL SERVICE STATE: 94.236.108.49;PING;OK;HARD;1;
+[1461128798] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;
+[1461128798] INITIAL SERVICE STATE: 94.236.108.51;PING;OK;HARD;1;
+[1461128798] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;
+[1461128798] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;
+[1461128798] INITIAL SERVICE STATE: 94.236.108.54;PING;OK;HARD;1;
+[1461128874] SERVICE ALERT: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461128886] SERVICE ALERT: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461128904] SERVICE ALERT: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129124] Caught SIGTERM, shutting down...
+[1461129124] Successfully shutdown... (PID=19795)
+[1461129124] npcdmod: If you don't like me, I will go out! Bye.
+[1461129124] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461129125] livestatus: Socket thread has terminated
+[1461129125] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461129126] Nagios 3.5.0 starting... (PID=20603)
+[1461129126] Local time is Wed Apr 20 10:42:06 IST 2016
+[1461129126] LOG VERSION: 2.0
+[1461129126] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461129126] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461129126] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461129126] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461129126] npcdmod: Ready to run to have some fun!
+[1461129126] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461129126] livestatus: Setting number of client threads to 20
+[1461129126] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461129126] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461129126] livestatus: Please visit us at http://mathias-kettner.de/
+[1461129126] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461129126] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461129126] Finished daemonizing... (New PID=20604)
+[1461129126] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461129126] logging initial states
+[1461129126] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.480ms, lost 0%
+[1461129126] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 138.755ms, lost 0%
+[1461129126] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 63.317ms, lost 0%
+[1461129126] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;
+[1461129126] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.262ms, lost 0%
+[1461129126] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129126] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 137.688ms, lost 0%
+[1461129126] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129126] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.901ms, lost 0%
+[1461129126] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 143.700ms, lost 0%
+[1461129126] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129126] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.535ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 138.707ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 173.193.209.195;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 173.193.222.199;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 208.43.81.36;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 208.43.81.37;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 208.43.81.38;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 208.43.81.41;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 65.707ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 67.228.207.220;PING;OK;HARD;1;(null)
+[1461129126] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.155ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129126] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 137.713ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129126] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 137.801ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 143.608ms, lost 0%
+[1461129126] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129203] SERVICE ALERT: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.659ms, lost 0%
+[1461129203] SERVICE NOTIFICATION: check-mk-notify;173.193.209.195;PING;WARNING;check-mk-notify;WARNING - 173.193.209.195: rta 292.659ms, lost 0%
+[1461129206] SERVICE ALERT: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 283.734ms, lost 0%
+[1461129206] SERVICE NOTIFICATION: check-mk-notify;173.193.222.199;PING;WARNING;check-mk-notify;WARNING - 173.193.222.199: rta 283.734ms, lost 0%
+[1461129208] SERVICE ALERT: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 319.158ms, lost 0%
+[1461129208] SERVICE NOTIFICATION: check-mk-notify;208.43.81.36;PING;WARNING;check-mk-notify;WARNING - 208.43.81.36: rta 319.158ms, lost 0%
+[1461129211] SERVICE ALERT: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.863ms, lost 0%
+[1461129211] SERVICE NOTIFICATION: check-mk-notify;208.43.81.37;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 315.863ms, lost 0%
+[1461129213] SERVICE ALERT: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 307.770ms, lost 0%
+[1461129213] SERVICE NOTIFICATION: check-mk-notify;208.43.81.38;PING;WARNING;check-mk-notify;WARNING - 208.43.81.38: rta 307.770ms, lost 0%
+[1461129215] SERVICE ALERT: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 316.306ms, lost 0%
+[1461129215] SERVICE NOTIFICATION: check-mk-notify;208.43.81.41;PING;WARNING;check-mk-notify;WARNING - 208.43.81.41: rta 316.306ms, lost 0%
+[1461129220] SERVICE ALERT: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.390ms, lost 0%
+[1461129220] SERVICE NOTIFICATION: check-mk-notify;67.228.207.220;PING;WARNING;check-mk-notify;WARNING - 67.228.207.220: rta 242.390ms, lost 0%
+[1461129431] SERVICE ALERT: 119.81.17.211;PING;WARNING;HARD;1;WARNING - 119.81.17.211: rta 63.789ms, lost 40%
+[1461129431] SERVICE NOTIFICATION: check-mk-notify;119.81.17.211;PING;WARNING;check-mk-notify;WARNING - 119.81.17.211: rta 63.789ms, lost 40%
+[1461129491] SERVICE ALERT: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 74.398ms, lost 20%
+[1461129491] SERVICE NOTIFICATION: check-mk-notify;119.81.17.211;PING;OK;check-mk-notify;OK - 119.81.17.211: rta 74.398ms, lost 20%
+[1461129605] HOST ALERT: 67.228.207.220;DOWN;HARD;1;CRITICAL - 67.228.207.220: rta nan, lost 100%
+[1461129605] HOST NOTIFICATION: check-mk-notify;67.228.207.220;DOWN;check-mk-notify;CRITICAL - 67.228.207.220: rta nan, lost 100%
+[1461129606] HOST ALERT: 216.12.199.11;DOWN;HARD;1;CRITICAL - 216.12.199.11: rta nan, lost 100%
+[1461129606] HOST NOTIFICATION: check-mk-notify;216.12.199.11;DOWN;check-mk-notify;CRITICAL - 216.12.199.11: rta nan, lost 100%
+[1461129616] HOST ALERT: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 69.487ms, lost 0%
+[1461129616] HOST NOTIFICATION: check-mk-notify;216.12.199.11;UP;check-mk-notify;OK - 216.12.199.11: rta 69.487ms, lost 0%
+[1461129666] HOST ALERT: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.274ms, lost 0%
+[1461129666] HOST NOTIFICATION: check-mk-notify;67.228.207.220;UP;check-mk-notify;WARNING - 67.228.207.220: rta 242.274ms, lost 0%
+[1461129675] SERVICE ALERT: 119.81.17.214;PING;WARNING;HARD;1;WARNING - 119.81.17.214: rta 68.185ms, lost 40%
+[1461129675] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;WARNING;check-mk-notify;WARNING - 119.81.17.214: rta 68.185ms, lost 40%
+[1461129704] Caught SIGTERM, shutting down...
+[1461129704] Successfully shutdown... (PID=20604)
+[1461129704] npcdmod: If you don't like me, I will go out! Bye.
+[1461129704] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461129704] livestatus: Socket thread has terminated
+[1461129704] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461129705] Nagios 3.5.0 starting... (PID=22479)
+[1461129705] Local time is Wed Apr 20 10:51:45 IST 2016
+[1461129705] LOG VERSION: 2.0
+[1461129705] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461129705] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461129705] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461129705] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461129705] npcdmod: Ready to run to have some fun!
+[1461129705] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461129705] livestatus: Setting number of client threads to 20
+[1461129705] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461129705] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461129705] livestatus: Please visit us at http://mathias-kettner.de/
+[1461129705] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461129705] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461129705] Finished daemonizing... (New PID=22480)
+[1461129705] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461129705] logging initial states
+[1461129705] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 66.603ms, lost 20%
+[1461129705] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 57.896ms, lost 0%
+[1461129705] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 65.952ms, lost 0%
+[1461129705] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 67.205ms, lost 0%
+[1461129705] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 66.127ms, lost 20%
+[1461129705] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 66.875ms, lost 0%
+[1461129705] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 57.735ms, lost 0%
+[1461129705] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.649ms, lost 0%
+[1461129705] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 138.993ms, lost 0%
+[1461129705] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.403ms, lost 0%
+[1461129705] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.355ms, lost 0%
+[1461129705] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 323.385ms, lost 0%
+[1461129705] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 316.575ms, lost 0%
+[1461129705] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 311.725ms, lost 0%
+[1461129705] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 322.338ms, lost 0%
+[1461129705] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 71.129ms, lost 0%
+[1461129705] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 70.073ms, lost 20%
+[1461129705] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.274ms, lost 0%
+[1461129705] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.866ms, lost 0%
+[1461129705] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129705] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 137.695ms, lost 0%
+[1461129705] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129705] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.812ms, lost 0%
+[1461129705] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 143.805ms, lost 0%
+[1461129705] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129705] INITIAL HOST STATE: techwavedr;UP;HARD;1;
+[1461129705] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 65.141ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 58.145ms, lost 20%
+[1461129705] INITIAL SERVICE STATE: 119.81.17.214;PING;WARNING;HARD;1;WARNING - 119.81.17.214: rta 68.185ms, lost 40%
+[1461129705] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 68.523ms, lost 20%
+[1461129705] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 67.048ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 66.611ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.715ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.540ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 138.786ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.166ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.326ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 321.142ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.707ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 311.455ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 321.670ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 66.807ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 68.404ms, lost 20%
+[1461129705] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.344ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 143.366ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 139.814ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 137.835ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 144.100ms, lost 0%
+[1461129705] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129705] INITIAL SERVICE STATE: techwavedr;PING;OK;HARD;1;(null)
+[1461129710] HOST ALERT: techwavedr;DOWN;HARD;1;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129710] HOST NOTIFICATION: check-mk-notify;techwavedr;DOWN;check-mk-notify;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129731] SERVICE ALERT: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 66.351ms, lost 0%
+[1461129731] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;OK;check-mk-notify;OK - 119.81.17.214: rta 66.351ms, lost 0%
+[1461129743] SERVICE ALERT: 119.81.48.203;PING;WARNING;HARD;1;WARNING - 119.81.48.203: rta 67.084ms, lost 40%
+[1461129743] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;WARNING;check-mk-notify;WARNING - 119.81.48.203: rta 67.084ms, lost 40%
+[1461129772] SERVICE ALERT: techwavedr;PING;CRITICAL;HARD;1;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129778] Caught SIGTERM, shutting down...
+[1461129778] Successfully shutdown... (PID=22480)
+[1461129778] npcdmod: If you don't like me, I will go out! Bye.
+[1461129778] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461129780] livestatus: Socket thread has terminated
+[1461129780] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461129780] Nagios 3.5.0 starting... (PID=22763)
+[1461129780] Local time is Wed Apr 20 10:53:00 IST 2016
+[1461129780] LOG VERSION: 2.0
+[1461129780] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461129780] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461129780] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461129780] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461129780] npcdmod: Ready to run to have some fun!
+[1461129780] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461129780] livestatus: Setting number of client threads to 20
+[1461129780] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461129780] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461129780] livestatus: Please visit us at http://mathias-kettner.de/
+[1461129780] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461129780] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461129780] Finished daemonizing... (New PID=22764)
+[1461129780] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461129780] logging initial states
+[1461129780] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 66.883ms, lost 0%
+[1461129780] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;WARNING - 119.81.17.213: rta 62.660ms, lost 60%
+[1461129780] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 67.193ms, lost 0%
+[1461129780] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 67.931ms, lost 0%
+[1461129780] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 66.366ms, lost 0%
+[1461129780] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 66.525ms, lost 0%
+[1461129780] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 59.256ms, lost 0%
+[1461129780] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 139.398ms, lost 0%
+[1461129780] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 141.004ms, lost 0%
+[1461129780] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.210ms, lost 0%
+[1461129780] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.540ms, lost 0%
+[1461129780] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 325.971ms, lost 0%
+[1461129780] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 315.662ms, lost 0%
+[1461129780] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 312.348ms, lost 0%
+[1461129780] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 316.574ms, lost 0%
+[1461129780] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 70.674ms, lost 20%
+[1461129780] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 70.999ms, lost 20%
+[1461129780] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.230ms, lost 0%
+[1461129780] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 143.903ms, lost 0%
+[1461129780] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129780] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 139.567ms, lost 0%
+[1461129780] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129780] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.827ms, lost 0%
+[1461129780] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 144.897ms, lost 0%
+[1461129780] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129780] INITIAL HOST STATE: techwavedr;DOWN;HARD;1;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129780] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 65.322ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 57.745ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 66.351ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 75.266ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 66.853ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 119.81.48.203;PING;WARNING;HARD;1;WARNING - 119.81.48.203: rta 67.084ms, lost 40%
+[1461129780] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 59.551ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.721ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 140.287ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 294.158ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 286.058ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 324.560ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.924ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 311.431ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 316.581ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 69.627ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 70.392ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.082ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.569ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 138.452ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 137.868ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 143.778ms, lost 0%
+[1461129780] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129780] INITIAL SERVICE STATE: techwavedr;PING;CRITICAL;HARD;1;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129799] SERVICE ALERT: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 66.882ms, lost 0%
+[1461129799] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;OK;check-mk-notify;OK - 119.81.48.203: rta 66.882ms, lost 0%
+[1461129820] Caught SIGTERM, shutting down...
+[1461129820] Successfully shutdown... (PID=22764)
+[1461129820] npcdmod: If you don't like me, I will go out! Bye.
+[1461129820] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461129821] livestatus: Socket thread has terminated
+[1461129821] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461129821] Nagios 3.5.0 starting... (PID=23010)
+[1461129821] Local time is Wed Apr 20 10:53:41 IST 2016
+[1461129821] LOG VERSION: 2.0
+[1461129821] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461129821] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461129821] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461129821] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461129821] npcdmod: Ready to run to have some fun!
+[1461129821] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461129821] livestatus: Setting number of client threads to 20
+[1461129821] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461129821] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461129821] livestatus: Please visit us at http://mathias-kettner.de/
+[1461129821] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461129821] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461129821] Finished daemonizing... (New PID=23011)
+[1461129821] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461129821] logging initial states
+[1461129821] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 69.189ms, lost 0%
+[1461129821] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 59.580ms, lost 0%
+[1461129821] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 68.697ms, lost 0%
+[1461129821] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 70.431ms, lost 0%
+[1461129821] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 67.676ms, lost 0%
+[1461129821] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 67.349ms, lost 0%
+[1461129821] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 58.178ms, lost 0%
+[1461129821] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 146.223ms, lost 0%
+[1461129821] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 139.233ms, lost 0%
+[1461129821] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.407ms, lost 0%
+[1461129821] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.457ms, lost 0%
+[1461129821] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 324.518ms, lost 0%
+[1461129821] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 315.662ms, lost 0%
+[1461129821] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 312.348ms, lost 0%
+[1461129821] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 316.574ms, lost 0%
+[1461129821] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 70.674ms, lost 20%
+[1461129821] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 70.648ms, lost 0%
+[1461129821] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.880ms, lost 0%
+[1461129821] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 143.735ms, lost 0%
+[1461129821] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129821] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 140.926ms, lost 0%
+[1461129821] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129821] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 140.451ms, lost 0%
+[1461129821] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 147.156ms, lost 0%
+[1461129821] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129821] INITIAL HOST STATE: techwavedr;DOWN;HARD;1;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129821] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 66.340ms, lost 20%
+[1461129821] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 62.483ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 68.417ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 68.944ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 85.500ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 66.882ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 65.014ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 144.017ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 140.287ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 297.409ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.363ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 325.555ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 312.690ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 312.188ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 320.122ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 69.627ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 68.950ms, lost 20%
+[1461129821] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 245.118ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 144.629ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 137.977ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 141.823ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 151.679ms, lost 0%
+[1461129821] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129821] INITIAL SERVICE STATE: techwavedr;PING;CRITICAL;HARD;1;CRITICAL - 172.16.16.89: Host unreachable @ 172.16.16.98. rta nan, lost 100%
+[1461129874] Caught SIGTERM, shutting down...
+[1461129874] Successfully shutdown... (PID=23011)
+[1461129874] npcdmod: If you don't like me, I will go out! Bye.
+[1461129874] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461129874] livestatus: Socket thread has terminated
+[1461129874] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461129875] Nagios 3.5.0 starting... (PID=23257)
+[1461129875] Local time is Wed Apr 20 10:54:35 IST 2016
+[1461129875] LOG VERSION: 2.0
+[1461129875] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461129875] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461129875] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461129875] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461129875] npcdmod: Ready to run to have some fun!
+[1461129875] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461129875] livestatus: Setting number of client threads to 20
+[1461129875] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461129875] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461129875] livestatus: Please visit us at http://mathias-kettner.de/
+[1461129875] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461129875] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461129875] Finished daemonizing... (New PID=23258)
+[1461129875] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461129875] logging initial states
+[1461129875] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 66.599ms, lost 0%
+[1461129875] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 58.422ms, lost 0%
+[1461129875] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 67.455ms, lost 20%
+[1461129875] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 69.107ms, lost 0%
+[1461129875] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 67.676ms, lost 0%
+[1461129875] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 67.349ms, lost 0%
+[1461129875] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 58.178ms, lost 0%
+[1461129875] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 144.225ms, lost 0%
+[1461129875] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 138.908ms, lost 0%
+[1461129875] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.407ms, lost 0%
+[1461129875] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.457ms, lost 0%
+[1461129875] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 324.518ms, lost 0%
+[1461129875] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 315.123ms, lost 0%
+[1461129875] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 318.140ms, lost 0%
+[1461129875] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 320.052ms, lost 0%
+[1461129875] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 67.615ms, lost 0%
+[1461129875] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 69.162ms, lost 20%
+[1461129875] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 244.094ms, lost 0%
+[1461129875] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.578ms, lost 0%
+[1461129875] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129875] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 137.726ms, lost 0%
+[1461129875] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129875] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 138.369ms, lost 0%
+[1461129875] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 147.822ms, lost 0%
+[1461129875] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129875] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 78.552ms, lost 20%
+[1461129875] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 60.768ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 87.623ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 68.550ms, lost 20%
+[1461129875] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 70.591ms, lost 20%
+[1461129875] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 66.597ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.420ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 144.017ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 139.688ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.187ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.893ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 325.850ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 318.710ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 308.340ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 320.122ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 69.627ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 91.835ms, lost 20%
+[1461129875] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 245.118ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.733ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 148.396ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 138.177ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 160.758ms, lost 0%
+[1461129875] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129915] SERVICE ALERT: 119.81.17.214;PING;WARNING;HARD;1;WARNING - 119.81.17.214: rta 68.590ms, lost 40%
+[1461129915] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;WARNING;check-mk-notify;WARNING - 119.81.17.214: rta 68.590ms, lost 40%
+[1461129971] SERVICE ALERT: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 65.929ms, lost 0%
+[1461129971] SERVICE FLAPPING ALERT: 119.81.17.214;PING;STARTED; Service appears to have started flapping (23.7% change >= 20.0% threshold)
+[1461129971] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;FLAPPINGSTART (OK);check-mk-notify;OK - 119.81.17.214: rta 65.929ms, lost 0%
+[1461129984] Caught SIGTERM, shutting down...
+[1461129984] Successfully shutdown... (PID=23258)
+[1461129984] npcdmod: If you don't like me, I will go out! Bye.
+[1461129984] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461129986] livestatus: Socket thread has terminated
+[1461129986] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461129987] Nagios 3.5.0 starting... (PID=23824)
+[1461129987] Local time is Wed Apr 20 10:56:27 IST 2016
+[1461129987] LOG VERSION: 2.0
+[1461129987] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461129987] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461129987] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461129987] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461129987] npcdmod: Ready to run to have some fun!
+[1461129987] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461129987] livestatus: Setting number of client threads to 20
+[1461129987] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461129987] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461129987] livestatus: Please visit us at http://mathias-kettner.de/
+[1461129987] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461129987] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461129987] Finished daemonizing... (New PID=23825)
+[1461129987] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461129987] logging initial states
+[1461129987] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 66.544ms, lost 0%
+[1461129987] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 57.519ms, lost 0%
+[1461129987] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 65.954ms, lost 0%
+[1461129987] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 67.170ms, lost 0%
+[1461129987] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 66.957ms, lost 20%
+[1461129987] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 77.974ms, lost 0%
+[1461129987] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 57.670ms, lost 20%
+[1461129987] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 140.252ms, lost 0%
+[1461129987] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 141.361ms, lost 0%
+[1461129987] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 293.447ms, lost 0%
+[1461129987] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 291.981ms, lost 0%
+[1461129987] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 320.904ms, lost 0%
+[1461129987] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 316.257ms, lost 0%
+[1461129987] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 311.592ms, lost 0%
+[1461129987] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 321.681ms, lost 0%
+[1461129987] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 67.218ms, lost 0%
+[1461129987] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 68.415ms, lost 0%
+[1461129987] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.366ms, lost 0%
+[1461129987] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 144.270ms, lost 0%
+[1461129987] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129987] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 140.369ms, lost 0%
+[1461129987] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129987] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 138.015ms, lost 0%
+[1461129987] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 143.864ms, lost 0%
+[1461129987] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461129987] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 66.400ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 62.718ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 65.929ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 66.226ms, lost 20%
+[1461129987] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 68.893ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 69.020ms, lost 20%
+[1461129987] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.217ms, lost 20%
+[1461129987] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 138.274ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 139.621ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 295.620ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.277ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 321.008ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.960ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 311.538ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 316.580ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 68.184ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 68.183ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.445ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.200ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 140.719ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 157.872ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 143.768ms, lost 0%
+[1461129987] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130065] SERVICE ALERT: 216.12.199.10;PING;WARNING;HARD;1;WARNING - 216.12.199.10: rta 73.773ms, lost 40%
+[1461130065] SERVICE NOTIFICATION: check-mk-notify;216.12.199.10;PING;WARNING;check-mk-notify;WARNING - 216.12.199.10: rta 73.773ms, lost 40%
+[1461130092] SERVICE ALERT: 119.81.17.213;PING;WARNING;HARD;1;WARNING - 119.81.17.213: rta 57.845ms, lost 40%
+[1461130092] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;WARNING;check-mk-notify;WARNING - 119.81.17.213: rta 57.845ms, lost 40%
+[1461130122] SERVICE ALERT: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 68.577ms, lost 0%
+[1461130122] SERVICE NOTIFICATION: check-mk-notify;216.12.199.10;PING;OK;check-mk-notify;OK - 216.12.199.10: rta 68.577ms, lost 0%
+[1461130149] SERVICE ALERT: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 59.683ms, lost 0%
+[1461130149] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;OK;check-mk-notify;OK - 119.81.17.213: rta 59.683ms, lost 0%
+[1461130195] Caught SIGTERM, shutting down...
+[1461130195] Successfully shutdown... (PID=23825)
+[1461130195] npcdmod: If you don't like me, I will go out! Bye.
+[1461130195] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461130196] livestatus: Socket thread has terminated
+[1461130196] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461130196] Nagios 3.5.0 starting... (PID=25281)
+[1461130196] Local time is Wed Apr 20 10:59:56 IST 2016
+[1461130196] LOG VERSION: 2.0
+[1461130196] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461130196] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461130196] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461130196] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461130196] npcdmod: Ready to run to have some fun!
+[1461130196] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461130196] livestatus: Setting number of client threads to 20
+[1461130196] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461130196] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461130196] livestatus: Please visit us at http://mathias-kettner.de/
+[1461130196] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461130196] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461130196] Finished daemonizing... (New PID=25282)
+[1461130196] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461130196] logging initial states
+[1461130196] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 73.640ms, lost 0%
+[1461130196] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 58.899ms, lost 0%
+[1461130196] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 135.022ms, lost 20%
+[1461130196] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 124.150ms, lost 20%
+[1461130196] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 68.174ms, lost 20%
+[1461130196] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 95.884ms, lost 0%
+[1461130196] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 59.095ms, lost 20%
+[1461130196] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.561ms, lost 0%
+[1461130196] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 138.798ms, lost 0%
+[1461130196] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 317.162ms, lost 0%
+[1461130196] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 291.195ms, lost 0%
+[1461130196] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 342.289ms, lost 0%
+[1461130196] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 339.750ms, lost 0%
+[1461130196] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 333.382ms, lost 0%
+[1461130196] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 321.053ms, lost 0%
+[1461130196] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;WARNING - 216.12.199.10: rta 68.532ms, lost 40%
+[1461130196] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 68.567ms, lost 0%
+[1461130196] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.196ms, lost 0%
+[1461130196] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.103ms, lost 0%
+[1461130196] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461130196] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 137.704ms, lost 0%
+[1461130196] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461130196] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.822ms, lost 0%
+[1461130196] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 143.851ms, lost 0%
+[1461130196] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130196] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 64.760ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 59.683ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 73.153ms, lost 20%
+[1461130196] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 68.520ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 67.027ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 78.740ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 59.396ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 142.069ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 157.810ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.595ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.295ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 321.249ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.111ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 311.553ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 317.155ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 107.409ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 69.845ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 274.705ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.186ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 137.904ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 138.616ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 146.149ms, lost 0%
+[1461130196] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130215] SERVICE ALERT: 119.81.17.214;PING;WARNING;HARD;1;WARNING - 119.81.17.214: rta 69.246ms, lost 40%
+[1461130271] SERVICE ALERT: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 67.136ms, lost 0%
+[1461130335] Caught SIGTERM, shutting down...
+[1461130335] Successfully shutdown... (PID=25282)
+[1461130335] npcdmod: If you don't like me, I will go out! Bye.
+[1461130335] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461130335] livestatus: Socket thread has terminated
+[1461130335] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461130337] Nagios 3.5.0 starting... (PID=25806)
+[1461130337] Local time is Wed Apr 20 11:02:17 IST 2016
+[1461130337] LOG VERSION: 2.0
+[1461130337] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461130337] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461130337] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461130337] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461130337] npcdmod: Ready to run to have some fun!
+[1461130337] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461130337] livestatus: Setting number of client threads to 20
+[1461130337] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461130337] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461130337] livestatus: Please visit us at http://mathias-kettner.de/
+[1461130337] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461130337] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461130337] Finished daemonizing... (New PID=25807)
+[1461130337] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461130337] logging initial states
+[1461130337] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 64.873ms, lost 20%
+[1461130337] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 57.646ms, lost 0%
+[1461130337] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 66.870ms, lost 0%
+[1461130337] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 69.106ms, lost 0%
+[1461130337] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 65.867ms, lost 0%
+[1461130337] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 66.878ms, lost 20%
+[1461130337] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 58.131ms, lost 0%
+[1461130337] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.794ms, lost 0%
+[1461130337] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 138.934ms, lost 0%
+[1461130337] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 291.896ms, lost 0%
+[1461130337] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.115ms, lost 0%
+[1461130337] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 324.037ms, lost 0%
+[1461130337] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 316.420ms, lost 0%
+[1461130337] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 311.601ms, lost 0%
+[1461130337] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 317.409ms, lost 0%
+[1461130337] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 67.299ms, lost 0%
+[1461130337] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 68.539ms, lost 0%
+[1461130337] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.109ms, lost 0%
+[1461130337] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.125ms, lost 0%
+[1461130337] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461130337] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 137.871ms, lost 0%
+[1461130337] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461130337] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.905ms, lost 0%
+[1461130337] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 144.042ms, lost 0%
+[1461130337] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130337] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 66.188ms, lost 20%
+[1461130337] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 59.384ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 67.797ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 66.737ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 66.058ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 66.174ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.804ms, lost 20%
+[1461130337] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.498ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 140.253ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.485ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.081ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 320.857ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.341ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 312.667ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 320.097ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 73.677ms, lost 20%
+[1461130337] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 69.217ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.120ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 142.170ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 137.823ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 138.135ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 144.114ms, lost 0%
+[1461130337] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130489] Caught SIGTERM, shutting down...
+[1461130489] Successfully shutdown... (PID=25807)
+[1461130489] npcdmod: If you don't like me, I will go out! Bye.
+[1461130489] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461130490] livestatus: Socket thread has terminated
+[1461130490] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461130491] Nagios 3.5.0 starting... (PID=26412)
+[1461130491] Local time is Wed Apr 20 11:04:51 IST 2016
+[1461130491] LOG VERSION: 2.0
+[1461130491] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461130491] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461130491] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461130491] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461130491] npcdmod: Ready to run to have some fun!
+[1461130491] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461130491] livestatus: Setting number of client threads to 20
+[1461130491] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461130491] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461130491] livestatus: Please visit us at http://mathias-kettner.de/
+[1461130491] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461130491] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461130491] Finished daemonizing... (New PID=26413)
+[1461130491] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461130491] logging initial states
+[1461130491] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 67.368ms, lost 0%
+[1461130491] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 59.014ms, lost 20%
+[1461130491] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 69.285ms, lost 20%
+[1461130491] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 66.468ms, lost 20%
+[1461130491] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 67.397ms, lost 20%
+[1461130491] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 69.192ms, lost 20%
+[1461130491] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 59.062ms, lost 20%
+[1461130491] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 141.028ms, lost 0%
+[1461130491] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 141.837ms, lost 0%
+[1461130491] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.246ms, lost 0%
+[1461130491] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.341ms, lost 0%
+[1461130491] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 327.857ms, lost 0%
+[1461130491] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 315.996ms, lost 0%
+[1461130491] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 309.938ms, lost 0%
+[1461130491] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 317.026ms, lost 0%
+[1461130491] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 67.491ms, lost 20%
+[1461130491] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 85.126ms, lost 0%
+[1461130491] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 245.146ms, lost 0%
+[1461130491] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 144.336ms, lost 0%
+[1461130491] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461130491] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 140.762ms, lost 0%
+[1461130491] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461130491] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 137.773ms, lost 0%
+[1461130491] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 152.766ms, lost 0%
+[1461130491] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130491] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 65.927ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 57.968ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 72.274ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 70.752ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 69.103ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 70.553ms, lost 20%
+[1461130491] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.241ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.672ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 139.535ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 296.405ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 288.129ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 320.766ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 320.913ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 310.202ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 338.016ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 73.636ms, lost 20%
+[1461130491] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 69.184ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 258.145ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 147.652ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 137.813ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 141.855ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 147.174ms, lost 0%
+[1461130491] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461130531] SERVICE ALERT: 119.81.48.204;PING;WARNING;HARD;1;WARNING - 119.81.48.204: rta 60.031ms, lost 40%
+[1461130531] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;WARNING;check-mk-notify;WARNING - 119.81.48.204: rta 60.031ms, lost 40%
+[1461130588] SERVICE ALERT: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 61.305ms, lost 0%
+[1461130588] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;OK;check-mk-notify;OK - 119.81.48.204: rta 61.305ms, lost 0%
+[1461130701] SERVICE ALERT: 119.81.48.202;PING;CRITICAL;HARD;1;CRITICAL - 119.81.48.202: rta 71.347ms, lost 80%
+[1461130701] SERVICE NOTIFICATION: check-mk-notify;119.81.48.202;PING;CRITICAL;check-mk-notify;CRITICAL - 119.81.48.202: rta 71.347ms, lost 80%
+[1461130758] SERVICE ALERT: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 66.829ms, lost 0%
+[1461130758] SERVICE NOTIFICATION: check-mk-notify;119.81.48.202;PING;OK;check-mk-notify;OK - 119.81.48.202: rta 66.829ms, lost 0%
+[1461130759] SERVICE ALERT: 216.12.199.11;PING;WARNING;HARD;1;WARNING - 216.12.199.11: rta 69.711ms, lost 40%
+[1461130759] SERVICE NOTIFICATION: check-mk-notify;216.12.199.11;PING;WARNING;check-mk-notify;WARNING - 216.12.199.11: rta 69.711ms, lost 40%
+[1461130771] SERVICE ALERT: 119.81.48.204;PING;WARNING;HARD;1;WARNING - 119.81.48.204: rta 58.188ms, lost 40%
+[1461130771] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;WARNING;check-mk-notify;WARNING - 119.81.48.204: rta 58.188ms, lost 40%
+[1461130819] SERVICE ALERT: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 72.805ms, lost 20%
+[1461130819] SERVICE NOTIFICATION: check-mk-notify;216.12.199.11;PING;OK;check-mk-notify;OK - 216.12.199.11: rta 72.805ms, lost 20%
+[1461130870] HOST NOTIFICATION: check-mk-notify;94.236.108.49;ACKNOWLEDGEMENT (DOWN);check-mk-notify;CRITICAL - 94.236.108.49: rta nan, lost 100%;omdadmin;test
+[1461130871] HOST NOTIFICATION: check-mk-notify;94.236.108.51;ACKNOWLEDGEMENT (DOWN);check-mk-notify;CRITICAL - 94.236.108.51: rta nan, lost 100%;omdadmin;test
+[1461130871] HOST NOTIFICATION: check-mk-notify;94.236.108.54;ACKNOWLEDGEMENT (DOWN);check-mk-notify;CRITICAL - 94.236.108.54: rta nan, lost 100%;omdadmin;test
+[1461130891] SERVICE ALERT: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.464ms, lost 20%
+[1461130891] SERVICE FLAPPING ALERT: 119.81.48.204;PING;STARTED; Service appears to have started flapping (23.3% change >= 20.0% threshold)
+[1461130891] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;FLAPPINGSTART (OK);check-mk-notify;OK - 119.81.48.204: rta 57.464ms, lost 20%
+[1461130965] SERVICE ALERT: 216.12.199.10;PING;WARNING;HARD;1;WARNING - 216.12.199.10: rta 69.099ms, lost 40%
+[1461130965] SERVICE NOTIFICATION: check-mk-notify;216.12.199.10;PING;WARNING;check-mk-notify;WARNING - 216.12.199.10: rta 69.099ms, lost 40%
+[1461131022] SERVICE ALERT: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 67.829ms, lost 0%
+[1461131022] SERVICE FLAPPING ALERT: 216.12.199.10;PING;STARTED; Service appears to have started flapping (20.8% change >= 20.0% threshold)
+[1461131022] SERVICE NOTIFICATION: check-mk-notify;216.12.199.10;PING;FLAPPINGSTART (OK);check-mk-notify;OK - 216.12.199.10: rta 67.829ms, lost 0%
+[1461131058] SERVICE ALERT: 119.81.41.254;PING;WARNING;HARD;1;WARNING - 119.81.41.254: rta 68.622ms, lost 40%
+[1461131058] SERVICE NOTIFICATION: check-mk-notify;119.81.41.254;PING;WARNING;check-mk-notify;WARNING - 119.81.41.254: rta 68.622ms, lost 40%
+[1461131063] SERVICE ALERT: 119.81.48.203;PING;WARNING;HARD;1;WARNING - 119.81.48.203: rta 68.012ms, lost 40%
+[1461131063] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;WARNING;check-mk-notify;WARNING - 119.81.48.203: rta 68.012ms, lost 40%
+[1461131118] SERVICE ALERT: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 89.921ms, lost 20%
+[1461131118] SERVICE NOTIFICATION: check-mk-notify;119.81.41.254;PING;OK;check-mk-notify;OK - 119.81.41.254: rta 89.921ms, lost 20%
+[1461131119] SERVICE ALERT: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 81.355ms, lost 0%
+[1461131119] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;OK;check-mk-notify;OK - 119.81.48.203: rta 81.355ms, lost 0%
+[1461131352] SERVICE ALERT: 119.81.17.213;PING;WARNING;HARD;1;WARNING - 119.81.17.213: rta 81.959ms, lost 40%
+[1461131352] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;WARNING;check-mk-notify;WARNING - 119.81.17.213: rta 81.959ms, lost 40%
+[1461131409] SERVICE ALERT: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 57.575ms, lost 0%
+[1461131409] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;OK;check-mk-notify;OK - 119.81.17.213: rta 57.575ms, lost 0%
+[1461131415] SERVICE FLAPPING ALERT: 119.81.17.214;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1461131415] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;FLAPPINGSTOP (OK);check-mk-notify;OK - 119.81.17.214: rta 66.672ms, lost 20%
+[1461131451] Caught SIGTERM, shutting down...
+[1461131451] Successfully shutdown... (PID=26413)
+[1461131451] npcdmod: If you don't like me, I will go out! Bye.
+[1461131451] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461131451] livestatus: Socket thread has terminated
+[1461131452] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461131452] Nagios 3.5.0 starting... (PID=29959)
+[1461131452] Local time is Wed Apr 20 11:20:52 IST 2016
+[1461131452] LOG VERSION: 2.0
+[1461131452] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461131452] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461131452] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461131452] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461131452] npcdmod: Ready to run to have some fun!
+[1461131452] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461131452] livestatus: Setting number of client threads to 20
+[1461131452] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461131452] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461131452] livestatus: Please visit us at http://mathias-kettner.de/
+[1461131452] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461131452] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461131452] Finished daemonizing... (New PID=29960)
+[1461131452] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461131452] logging initial states
+[1461131452] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 65.957ms, lost 0%
+[1461131452] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 62.674ms, lost 0%
+[1461131452] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 99.772ms, lost 0%
+[1461131452] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 67.291ms, lost 0%
+[1461131452] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 95.178ms, lost 0%
+[1461131452] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 83.546ms, lost 20%
+[1461131452] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 56.181ms, lost 0%
+[1461131452] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 161.958ms, lost 0%
+[1461131452] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 150.702ms, lost 0%
+[1461131452] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.329ms, lost 0%
+[1461131452] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.064ms, lost 0%
+[1461131452] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 322.059ms, lost 0%
+[1461131452] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 317.798ms, lost 0%
+[1461131452] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 306.645ms, lost 0%
+[1461131452] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 316.866ms, lost 0%
+[1461131452] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 85.372ms, lost 0%
+[1461131452] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 67.745ms, lost 0%
+[1461131452] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 270.693ms, lost 0%
+[1461131452] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 152.865ms, lost 0%
+[1461131452] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461131452] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 150.548ms, lost 0%
+[1461131452] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461131452] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 138.042ms, lost 0%
+[1461131452] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 144.063ms, lost 0%
+[1461131452] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461131452] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 65.212ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 57.575ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 66.672ms, lost 20%
+[1461131452] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 66.706ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 65.284ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 65.422ms, lost 20%
+[1461131452] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 57.690ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 144.469ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 144.248ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.125ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 287.085ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 330.712ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 333.209ms, lost 20%
+[1461131452] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 317.401ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 341.258ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 85.678ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 71.120ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 252.022ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 152.015ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 137.866ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 139.026ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 144.420ms, lost 0%
+[1461131452] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461131653] SERVICE ALERT: 119.81.17.213;PING;WARNING;HARD;1;WARNING - 119.81.17.213: rta 58.541ms, lost 40%
+[1461131653] SERVICE NOTIFICATION: mkeventd;119.81.17.213;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.17.213: rta 58.541ms, lost 40%
+[1461131653] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;WARNING;check-mk-notify;WARNING - 119.81.17.213: rta 58.541ms, lost 40%
+[1461131709] SERVICE ALERT: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 62.682ms, lost 0%
+[1461131709] SERVICE FLAPPING ALERT: 119.81.17.213;PING;STARTED; Service appears to have started flapping (23.4% change >= 20.0% threshold)
+[1461131709] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;FLAPPINGSTART (OK);check-mk-notify;OK - 119.81.17.213: rta 62.682ms, lost 0%
+[1461131842] SERVICE ALERT: 119.81.48.203;PING;WARNING;HARD;1;WARNING - 119.81.48.203: rta 67.002ms, lost 40%
+[1461131842] SERVICE NOTIFICATION: mkeventd;119.81.48.203;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.48.203: rta 67.002ms, lost 40%
+[1461131842] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;WARNING;check-mk-notify;WARNING - 119.81.48.203: rta 67.002ms, lost 40%
+[1461131943] Caught SIGTERM, shutting down...
+[1461131943] Successfully shutdown... (PID=29960)
+[1461131943] npcdmod: If you don't like me, I will go out! Bye.
+[1461131943] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461131945] livestatus: Socket thread has terminated
+[1461131945] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461131945] Nagios 3.5.0 starting... (PID=31727)
+[1461131945] Local time is Wed Apr 20 11:29:05 IST 2016
+[1461131945] LOG VERSION: 2.0
+[1461131945] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461131945] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461131945] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461131945] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461131945] npcdmod: Ready to run to have some fun!
+[1461131945] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461131945] livestatus: Setting number of client threads to 20
+[1461131945] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461131945] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461131945] livestatus: Please visit us at http://mathias-kettner.de/
+[1461131945] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461131945] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461131945] Finished daemonizing... (New PID=31728)
+[1461131945] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461131945] logging initial states
+[1461131945] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 89.623ms, lost 0%
+[1461131945] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 74.234ms, lost 0%
+[1461131945] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 69.011ms, lost 0%
+[1461131945] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 72.085ms, lost 0%
+[1461131945] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 82.721ms, lost 0%
+[1461131945] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 82.501ms, lost 0%
+[1461131945] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 73.655ms, lost 0%
+[1461131945] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 150.253ms, lost 0%
+[1461131945] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 139.622ms, lost 0%
+[1461131945] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 295.695ms, lost 0%
+[1461131945] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 289.399ms, lost 0%
+[1461131945] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 324.569ms, lost 0%
+[1461131945] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 320.618ms, lost 0%
+[1461131945] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 312.510ms, lost 0%
+[1461131945] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 330.006ms, lost 0%
+[1461131945] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 89.676ms, lost 0%
+[1461131945] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 69.714ms, lost 0%
+[1461131945] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 243.430ms, lost 0%
+[1461131945] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 143.254ms, lost 0%
+[1461131945] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461131945] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 138.314ms, lost 0%
+[1461131945] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461131945] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 180.472ms, lost 0%
+[1461131945] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 149.300ms, lost 0%
+[1461131945] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461131945] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 80.262ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 78.433ms, lost 20%
+[1461131945] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 69.886ms, lost 20%
+[1461131945] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 86.263ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 67.216ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 119.81.48.203;PING;WARNING;HARD;1;WARNING - 119.81.48.203: rta 69.361ms, lost 60%
+[1461131945] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 59.974ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 140.728ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 139.717ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 296.513ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 293.091ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 321.984ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.132ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 344.986ms, lost 20%
+[1461131945] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 337.869ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 71.360ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 74.365ms, lost 20%
+[1461131945] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 246.644ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 146.711ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 147.359ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 149.433ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 145.860ms, lost 0%
+[1461131945] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461131959] SERVICE ALERT: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 75.588ms, lost 0%
+[1461131959] SERVICE FLAPPING ALERT: 119.81.48.203;PING;STARTED; Service appears to have started flapping (20.9% change >= 20.0% threshold)
+[1461131959] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;FLAPPINGSTART (OK);check-mk-notify;OK - 119.81.48.203: rta 75.588ms, lost 0%
+[1461131968] SERVICE FLAPPING ALERT: 119.81.48.204;PING;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1461131968] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;FLAPPINGSTOP (OK);check-mk-notify;OK - 119.81.48.204: rta 66.446ms, lost 0%
+[1461132156] Caught SIGTERM, shutting down...
+[1461132156] Successfully shutdown... (PID=31728)
+[1461132156] npcdmod: If you don't like me, I will go out! Bye.
+[1461132156] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461132157] livestatus: Socket thread has terminated
+[1461132157] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461132158] Nagios 3.5.0 starting... (PID=32453)
+[1461132158] Local time is Wed Apr 20 11:32:38 IST 2016
+[1461132158] LOG VERSION: 2.0
+[1461132158] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461132158] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461132158] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461132158] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461132158] npcdmod: Ready to run to have some fun!
+[1461132158] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461132158] livestatus: Setting number of client threads to 20
+[1461132158] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461132158] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461132158] livestatus: Please visit us at http://mathias-kettner.de/
+[1461132158] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461132158] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461132158] Finished daemonizing... (New PID=32454)
+[1461132158] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461132158] logging initial states
+[1461132158] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 71.332ms, lost 0%
+[1461132158] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 64.341ms, lost 20%
+[1461132158] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 67.475ms, lost 20%
+[1461132158] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 66.679ms, lost 0%
+[1461132158] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 65.960ms, lost 0%
+[1461132158] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 66.266ms, lost 0%
+[1461132158] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 58.752ms, lost 0%
+[1461132158] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.957ms, lost 0%
+[1461132158] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 139.129ms, lost 0%
+[1461132158] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 302.715ms, lost 0%
+[1461132158] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 295.000ms, lost 0%
+[1461132158] INITIAL HOST STATE: 208.43.81.36;UP;HARD;1;WARNING - 208.43.81.36: rta 324.293ms, lost 0%
+[1461132158] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 316.789ms, lost 0%
+[1461132158] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 308.294ms, lost 0%
+[1461132158] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 331.090ms, lost 0%
+[1461132158] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 67.571ms, lost 20%
+[1461132158] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 68.909ms, lost 0%
+[1461132158] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.407ms, lost 0%
+[1461132158] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 142.406ms, lost 0%
+[1461132158] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461132158] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 138.059ms, lost 0%
+[1461132158] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461132158] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 139.095ms, lost 0%
+[1461132158] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 144.949ms, lost 0%
+[1461132158] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461132158] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 74.227ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 70.933ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 69.487ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 74.901ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 84.429ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 67.048ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 63.697ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 144.172ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 140.639ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 322.996ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.573ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 208.43.81.36;PING;WARNING;HARD;1;WARNING - 208.43.81.36: rta 329.563ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 335.962ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 307.017ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 334.737ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 67.908ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 73.122ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.494ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 145.162ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 147.400ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 145.898ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 151.958ms, lost 0%
+[1461132158] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461132165] SERVICE FLAPPING ALERT: 216.12.199.10;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1461132165] SERVICE NOTIFICATION: check-mk-notify;216.12.199.10;PING;FLAPPINGSTOP (OK);check-mk-notify;OK - 216.12.199.10: rta 67.448ms, lost 20%
+[1461132359] HOST ALERT: 134.213.185.28;DOWN;HARD;1;CRITICAL - 134.213.185.28: rta nan, lost 100%
+[1461132359] HOST NOTIFICATION: mkeventd;134.213.185.28;DOWN;mkeventd-notify-host;CRITICAL - 134.213.185.28: rta nan, lost 100%
+[1461132359] HOST NOTIFICATION: check-mk-notify;134.213.185.28;DOWN;check-mk-notify;CRITICAL - 134.213.185.28: rta nan, lost 100%
+[1461132400] HOST ALERT: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.696ms, lost 0%
+[1461132400] HOST NOTIFICATION: mkeventd;134.213.185.28;UP;mkeventd-notify-host;OK - 134.213.185.28: rta 137.696ms, lost 0%
+[1461132400] HOST NOTIFICATION: check-mk-notify;134.213.185.28;UP;check-mk-notify;OK - 134.213.185.28: rta 137.696ms, lost 0%
+[1461132849] SERVICE FLAPPING ALERT: 119.81.17.213;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1461132849] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;FLAPPINGSTOP (OK);check-mk-notify;OK - 119.81.17.213: rta 63.690ms, lost 0%
+[1461132905] SERVICE ALERT: 134.213.185.29;PING;CRITICAL;HARD;1;CRITICAL - 134.213.185.29: rta nan, lost 100%
+[1461132905] SERVICE NOTIFICATION: mkeventd;134.213.185.29;PING;CRITICAL;mkeventd-notify-service;CRITICAL - 134.213.185.29: rta nan, lost 100%
+[1461132905] SERVICE NOTIFICATION: check-mk-notify;134.213.185.29;PING;CRITICAL;check-mk-notify;CRITICAL - 134.213.185.29: rta nan, lost 100%
+[1461132931] SERVICE ALERT: 119.81.48.204;PING;WARNING;HARD;1;WARNING - 119.81.48.204: rta 57.176ms, lost 40%
+[1461132931] SERVICE NOTIFICATION: mkeventd;119.81.48.204;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.48.204: rta 57.176ms, lost 40%
+[1461132931] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;WARNING;check-mk-notify;WARNING - 119.81.48.204: rta 57.176ms, lost 40%
+[1461132946] SERVICE ALERT: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 138.813ms, lost 0%
+[1461132946] SERVICE NOTIFICATION: mkeventd;134.213.185.29;PING;OK;mkeventd-notify-service;OK - 134.213.185.29: rta 138.813ms, lost 0%
+[1461132946] SERVICE NOTIFICATION: check-mk-notify;134.213.185.29;PING;OK;check-mk-notify;OK - 134.213.185.29: rta 138.813ms, lost 0%
+[1461132971] SERVICE ALERT: 119.81.17.211;PING;WARNING;HARD;1;WARNING - 119.81.17.211: rta 65.482ms, lost 40%
+[1461132971] SERVICE NOTIFICATION: mkeventd;119.81.17.211;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.17.211: rta 65.482ms, lost 40%
+[1461132971] SERVICE NOTIFICATION: check-mk-notify;119.81.17.211;PING;WARNING;check-mk-notify;WARNING - 119.81.17.211: rta 65.482ms, lost 40%
+[1461132991] SERVICE ALERT: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 58.135ms, lost 20%
+[1461132991] SERVICE NOTIFICATION: mkeventd;119.81.48.204;PING;OK;mkeventd-notify-service;OK - 119.81.48.204: rta 58.135ms, lost 20%
+[1461132991] SERVICE NOTIFICATION: check-mk-notify;119.81.48.204;PING;OK;check-mk-notify;OK - 119.81.48.204: rta 58.135ms, lost 20%
+[1461133039] SERVICE FLAPPING ALERT: 119.81.48.203;PING;STOPPED; Service appears to have stopped flapping (3.9% change < 5.0% threshold)
+[1461133039] SERVICE NOTIFICATION: check-mk-notify;119.81.48.203;PING;FLAPPINGSTOP (OK);check-mk-notify;OK - 119.81.48.203: rta 65.059ms, lost 0%
+[1461133087] SERVICE ALERT: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 66.138ms, lost 0%
+[1461133087] SERVICE NOTIFICATION: mkeventd;119.81.17.211;PING;OK;mkeventd-notify-service;OK - 119.81.17.211: rta 66.138ms, lost 0%
+[1461133087] SERVICE NOTIFICATION: check-mk-notify;119.81.17.211;PING;OK;check-mk-notify;OK - 119.81.17.211: rta 66.138ms, lost 0%
+[1461133392] SERVICE ALERT: 119.81.17.213;PING;WARNING;HARD;1;WARNING - 119.81.17.213: rta 68.404ms, lost 40%
+[1461133392] SERVICE NOTIFICATION: mkeventd;119.81.17.213;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.17.213: rta 68.404ms, lost 40%
+[1461133392] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;WARNING;check-mk-notify;WARNING - 119.81.17.213: rta 68.404ms, lost 40%
+[1461133449] SERVICE ALERT: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 61.384ms, lost 0%
+[1461133449] SERVICE NOTIFICATION: mkeventd;119.81.17.213;PING;OK;mkeventd-notify-service;OK - 119.81.17.213: rta 61.384ms, lost 0%
+[1461133449] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;OK;check-mk-notify;OK - 119.81.17.213: rta 61.384ms, lost 0%
+[1461133581] SERVICE ALERT: 119.81.48.202;PING;WARNING;HARD;1;WARNING - 119.81.48.202: rta 66.278ms, lost 40%
+[1461133581] SERVICE NOTIFICATION: mkeventd;119.81.48.202;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.48.202: rta 66.278ms, lost 40%
+[1461133581] SERVICE NOTIFICATION: check-mk-notify;119.81.48.202;PING;WARNING;check-mk-notify;WARNING - 119.81.48.202: rta 66.278ms, lost 40%
+[1461133632] SERVICE ALERT: 119.81.17.213;PING;WARNING;HARD;1;WARNING - 119.81.17.213: rta 58.383ms, lost 40%
+[1461133632] SERVICE NOTIFICATION: mkeventd;119.81.17.213;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.17.213: rta 58.383ms, lost 40%
+[1461133632] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;WARNING;check-mk-notify;WARNING - 119.81.17.213: rta 58.383ms, lost 40%
+[1461133638] SERVICE ALERT: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 70.494ms, lost 0%
+[1461133638] SERVICE NOTIFICATION: mkeventd;119.81.48.202;PING;OK;mkeventd-notify-service;OK - 119.81.48.202: rta 70.494ms, lost 0%
+[1461133638] SERVICE NOTIFICATION: check-mk-notify;119.81.48.202;PING;OK;check-mk-notify;OK - 119.81.48.202: rta 70.494ms, lost 0%
+[1461133689] SERVICE ALERT: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 56.824ms, lost 0%
+[1461133689] SERVICE FLAPPING ALERT: 119.81.17.213;PING;STARTED; Service appears to have started flapping (23.7% change >= 20.0% threshold)
+[1461133689] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;FLAPPINGSTART (OK);check-mk-notify;OK - 119.81.17.213: rta 56.824ms, lost 0%
+[1461134416] HOST ALERT: 208.43.81.36;DOWN;HARD;1;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461134416] HOST NOTIFICATION: mkeventd;208.43.81.36;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461134416] HOST NOTIFICATION: check-mk-notify;208.43.81.36;DOWN;check-mk-notify;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461134435] SERVICE ALERT: 208.43.81.36;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461134841] SERVICE FLAPPING ALERT: 119.81.17.213;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1461134841] SERVICE NOTIFICATION: check-mk-notify;119.81.17.213;PING;FLAPPINGSTOP (OK);check-mk-notify;OK - 119.81.17.213: rta 52.874ms, lost 0%
+[1461135758] Auto-save of retention data completed successfully.
+[1461135985] SERVICE ALERT: 119.81.41.254;PING;WARNING;HARD;1;WARNING - 119.81.41.254: rta 68.033ms, lost 40%
+[1461135985] SERVICE NOTIFICATION: mkeventd;119.81.41.254;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.41.254: rta 68.033ms, lost 40%
+[1461135985] SERVICE NOTIFICATION: check-mk-notify;119.81.41.254;PING;WARNING;check-mk-notify;WARNING - 119.81.41.254: rta 68.033ms, lost 40%
+[1461136041] SERVICE ALERT: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 83.030ms, lost 0%
+[1461136041] SERVICE NOTIFICATION: mkeventd;119.81.41.254;PING;OK;mkeventd-notify-service;OK - 119.81.41.254: rta 83.030ms, lost 0%
+[1461136041] SERVICE NOTIFICATION: check-mk-notify;119.81.41.254;PING;OK;check-mk-notify;OK - 119.81.41.254: rta 83.030ms, lost 0%
+[1461136405] SERVICE ALERT: 119.81.17.214;PING;WARNING;HARD;1;WARNING - 119.81.17.214: rta 64.568ms, lost 40%
+[1461136405] SERVICE NOTIFICATION: mkeventd;119.81.17.214;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.17.214: rta 64.568ms, lost 40%
+[1461136405] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;WARNING;check-mk-notify;WARNING - 119.81.17.214: rta 64.568ms, lost 40%
+[1461136461] SERVICE ALERT: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 62.290ms, lost 0%
+[1461136461] SERVICE NOTIFICATION: mkeventd;119.81.17.214;PING;OK;mkeventd-notify-service;OK - 119.81.17.214: rta 62.290ms, lost 0%
+[1461136461] SERVICE NOTIFICATION: check-mk-notify;119.81.17.214;PING;OK;check-mk-notify;OK - 119.81.17.214: rta 62.290ms, lost 0%
+[1461138445] SERVICE ALERT: 119.81.17.211;PING;WARNING;HARD;1;WARNING - 119.81.17.211: rta 65.287ms, lost 40%
+[1461138445] SERVICE NOTIFICATION: mkeventd;119.81.17.211;PING;WARNING;mkeventd-notify-service;WARNING - 119.81.17.211: rta 65.287ms, lost 40%
+[1461138445] SERVICE NOTIFICATION: check-mk-notify;119.81.17.211;PING;WARNING;check-mk-notify;WARNING - 119.81.17.211: rta 65.287ms, lost 40%
+[1461138501] SERVICE ALERT: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 63.539ms, lost 0%
+[1461138501] SERVICE NOTIFICATION: mkeventd;119.81.17.211;PING;OK;mkeventd-notify-service;OK - 119.81.17.211: rta 63.539ms, lost 0%
+[1461138501] SERVICE NOTIFICATION: check-mk-notify;119.81.17.211;PING;OK;check-mk-notify;OK - 119.81.17.211: rta 63.539ms, lost 0%
+[1461138539] Caught SIGTERM, shutting down...
+[1461138539] Successfully shutdown... (PID=32454)
+[1461138539] npcdmod: If you don't like me, I will go out! Bye.
+[1461138539] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461138540] livestatus: Socket thread has terminated
+[1461138540] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461138541] Nagios 3.5.0 starting... (PID=21377)
+[1461138541] Local time is Wed Apr 20 13:19:01 IST 2016
+[1461138541] LOG VERSION: 2.0
+[1461138541] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461138541] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461138541] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461138541] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461138541] npcdmod: Ready to run to have some fun!
+[1461138541] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461138541] livestatus: Setting number of client threads to 20
+[1461138541] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461138541] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461138541] livestatus: Please visit us at http://mathias-kettner.de/
+[1461138541] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461138541] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461138541] Finished daemonizing... (New PID=21378)
+[1461138541] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461138541] logging initial states
+[1461138541] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 60.926ms, lost 0%
+[1461138541] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 52.650ms, lost 0%
+[1461138541] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 63.281ms, lost 0%
+[1461138541] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 64.494ms, lost 0%
+[1461138541] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 63.631ms, lost 0%
+[1461138541] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 60.337ms, lost 0%
+[1461138541] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 54.750ms, lost 0%
+[1461138541] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 138.168ms, lost 0%
+[1461138541] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 141.858ms, lost 0%
+[1461138541] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 293.710ms, lost 0%
+[1461138541] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 286.959ms, lost 0%
+[1461138541] INITIAL HOST STATE: 208.43.81.36;DOWN;HARD;1;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461138541] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 317.265ms, lost 0%
+[1461138541] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 306.605ms, lost 0%
+[1461138541] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 317.265ms, lost 0%
+[1461138541] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 63.660ms, lost 20%
+[1461138541] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 66.463ms, lost 20%
+[1461138541] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.540ms, lost 0%
+[1461138541] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 146.318ms, lost 0%
+[1461138541] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138541] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 141.662ms, lost 0%
+[1461138541] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138541] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 141.461ms, lost 0%
+[1461138541] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 140.425ms, lost 0%
+[1461138541] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138541] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 63.539ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 56.817ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 65.002ms, lost 20%
+[1461138541] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 65.944ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 64.606ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 64.093ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 56.743ms, lost 20%
+[1461138541] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.542ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 141.345ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.669ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.487ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 208.43.81.36;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461138541] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.281ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 306.542ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 316.615ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 65.339ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 65.914ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 242.548ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 146.045ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 141.751ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 141.583ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 140.701ms, lost 0%
+[1461138541] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138692] Caught SIGTERM, shutting down...
+[1461138692] Successfully shutdown... (PID=21378)
+[1461138692] npcdmod: If you don't like me, I will go out! Bye.
+[1461138692] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461138692] livestatus: Socket thread has terminated
+[1461138692] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461138693] Nagios 3.5.0 starting... (PID=21929)
+[1461138693] Local time is Wed Apr 20 13:21:33 IST 2016
+[1461138693] LOG VERSION: 2.0
+[1461138693] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461138693] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461138693] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461138693] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461138693] npcdmod: Ready to run to have some fun!
+[1461138693] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461138693] livestatus: Setting number of client threads to 20
+[1461138693] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461138693] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461138693] livestatus: Please visit us at http://mathias-kettner.de/
+[1461138693] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461138693] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461138693] Finished daemonizing... (New PID=21930)
+[1461138693] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461138693] logging initial states
+[1461138693] INITIAL HOST STATE: 119.81.17.211;UP;HARD;1;OK - 119.81.17.211: rta 72.123ms, lost 0%
+[1461138693] INITIAL HOST STATE: 119.81.17.213;UP;HARD;1;OK - 119.81.17.213: rta 57.895ms, lost 0%
+[1461138693] INITIAL HOST STATE: 119.81.17.214;UP;HARD;1;OK - 119.81.17.214: rta 61.231ms, lost 0%
+[1461138693] INITIAL HOST STATE: 119.81.41.254;UP;HARD;1;OK - 119.81.41.254: rta 64.304ms, lost 0%
+[1461138693] INITIAL HOST STATE: 119.81.48.202;UP;HARD;1;OK - 119.81.48.202: rta 61.228ms, lost 0%
+[1461138693] INITIAL HOST STATE: 119.81.48.203;UP;HARD;1;OK - 119.81.48.203: rta 64.825ms, lost 0%
+[1461138693] INITIAL HOST STATE: 119.81.48.204;UP;HARD;1;OK - 119.81.48.204: rta 56.255ms, lost 0%
+[1461138693] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 139.969ms, lost 0%
+[1461138693] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 144.404ms, lost 0%
+[1461138693] INITIAL HOST STATE: 173.193.209.195;UP;HARD;1;WARNING - 173.193.209.195: rta 292.648ms, lost 0%
+[1461138693] INITIAL HOST STATE: 173.193.222.199;UP;HARD;1;WARNING - 173.193.222.199: rta 285.955ms, lost 0%
+[1461138693] INITIAL HOST STATE: 208.43.81.36;DOWN;HARD;1;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461138693] INITIAL HOST STATE: 208.43.81.37;UP;HARD;1;WARNING - 208.43.81.37: rta 316.716ms, lost 0%
+[1461138693] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 306.535ms, lost 0%
+[1461138693] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 316.857ms, lost 0%
+[1461138693] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 64.336ms, lost 0%
+[1461138693] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 64.991ms, lost 0%
+[1461138693] INITIAL HOST STATE: 67.228.207.220;UP;HARD;1;WARNING - 67.228.207.220: rta 242.352ms, lost 0%
+[1461138693] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 146.086ms, lost 0%
+[1461138693] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138693] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 142.481ms, lost 0%
+[1461138693] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138693] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 141.447ms, lost 0%
+[1461138693] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 140.512ms, lost 0%
+[1461138693] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138693] INITIAL SERVICE STATE: 119.81.17.211;PING;OK;HARD;1;OK - 119.81.17.211: rta 62.324ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 119.81.17.213;PING;OK;HARD;1;OK - 119.81.17.213: rta 57.301ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 119.81.17.214;PING;OK;HARD;1;OK - 119.81.17.214: rta 63.972ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 119.81.41.254;PING;OK;HARD;1;OK - 119.81.41.254: rta 64.518ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 119.81.48.202;PING;OK;HARD;1;OK - 119.81.48.202: rta 64.088ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 119.81.48.203;PING;OK;HARD;1;OK - 119.81.48.203: rta 62.627ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 119.81.48.204;PING;OK;HARD;1;OK - 119.81.48.204: rta 55.119ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 137.613ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 142.886ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 173.193.209.195;PING;WARNING;HARD;1;WARNING - 173.193.209.195: rta 292.502ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 173.193.222.199;PING;WARNING;HARD;1;WARNING - 173.193.222.199: rta 285.122ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 208.43.81.36;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.36: rta nan, lost 100%
+[1461138693] INITIAL SERVICE STATE: 208.43.81.37;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.790ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 306.518ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 316.434ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 66.252ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 65.930ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 67.228.207.220;PING;WARNING;HARD;1;WARNING - 67.228.207.220: rta 245.216ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 146.623ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 142.267ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 142.318ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 140.394ms, lost 0%
+[1461138693] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138875] Caught SIGTERM, shutting down...
+[1461138875] Successfully shutdown... (PID=21930)
+[1461138875] npcdmod: If you don't like me, I will go out! Bye.
+[1461138875] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461138877] livestatus: Socket thread has terminated
+[1461138877] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461138878] Nagios 3.5.0 starting... (PID=22567)
+[1461138878] Local time is Wed Apr 20 13:24:38 IST 2016
+[1461138878] LOG VERSION: 2.0
+[1461138878] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461138878] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461138878] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461138878] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461138878] npcdmod: Ready to run to have some fun!
+[1461138878] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461138878] livestatus: Setting number of client threads to 20
+[1461138878] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461138878] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461138878] livestatus: Please visit us at http://mathias-kettner.de/
+[1461138878] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461138878] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461138878] Finished daemonizing... (New PID=22568)
+[1461138878] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461138878] logging initial states
+[1461138878] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.467ms, lost 0%
+[1461138878] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 141.623ms, lost 0%
+[1461138878] INITIAL HOST STATE: 208.43.81.38;UP;HARD;1;WARNING - 208.43.81.38: rta 306.503ms, lost 40%
+[1461138878] INITIAL HOST STATE: 208.43.81.41;UP;HARD;1;WARNING - 208.43.81.41: rta 316.860ms, lost 0%
+[1461138878] INITIAL HOST STATE: 216.12.199.10;UP;HARD;1;OK - 216.12.199.10: rta 65.661ms, lost 0%
+[1461138878] INITIAL HOST STATE: 216.12.199.11;UP;HARD;1;OK - 216.12.199.11: rta 66.577ms, lost 0%
+[1461138878] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 146.072ms, lost 0%
+[1461138878] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138878] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 141.441ms, lost 0%
+[1461138878] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138878] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 147.137ms, lost 0%
+[1461138878] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 145.631ms, lost 0%
+[1461138878] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138878] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 138.086ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 141.397ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 208.43.81.38;PING;WARNING;HARD;1;WARNING - 208.43.81.38: rta 307.329ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 208.43.81.41;PING;WARNING;HARD;1;WARNING - 208.43.81.41: rta 316.851ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 216.12.199.10;PING;OK;HARD;1;OK - 216.12.199.10: rta 65.168ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 216.12.199.11;PING;OK;HARD;1;OK - 216.12.199.11: rta 66.047ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 145.994ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 141.600ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 141.466ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 140.350ms, lost 0%
+[1461138878] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138899] Caught SIGTERM, shutting down...
+[1461138899] Successfully shutdown... (PID=22568)
+[1461138899] npcdmod: If you don't like me, I will go out! Bye.
+[1461138899] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461138901] livestatus: Socket thread has terminated
+[1461138901] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461138901] Nagios 3.5.0 starting... (PID=22675)
+[1461138901] Local time is Wed Apr 20 13:25:01 IST 2016
+[1461138901] LOG VERSION: 2.0
+[1461138901] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461138901] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461138901] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461138901] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461138901] npcdmod: Ready to run to have some fun!
+[1461138901] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461138901] livestatus: Setting number of client threads to 20
+[1461138901] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461138901] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461138901] livestatus: Please visit us at http://mathias-kettner.de/
+[1461138901] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461138901] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461138901] Finished daemonizing... (New PID=22676)
+[1461138901] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461138901] logging initial states
+[1461138901] INITIAL HOST STATE: 134.213.185.28;UP;HARD;1;OK - 134.213.185.28: rta 137.985ms, lost 0%
+[1461138901] INITIAL HOST STATE: 134.213.185.29;UP;HARD;1;OK - 134.213.185.29: rta 141.537ms, lost 0%
+[1461138901] INITIAL HOST STATE: 94.236.108.48;UP;HARD;1;OK - 94.236.108.48: rta 145.918ms, lost 0%
+[1461138901] INITIAL HOST STATE: 94.236.108.49;DOWN;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138901] INITIAL HOST STATE: 94.236.108.50;UP;HARD;1;OK - 94.236.108.50: rta 141.472ms, lost 0%
+[1461138901] INITIAL HOST STATE: 94.236.108.51;DOWN;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138901] INITIAL HOST STATE: 94.236.108.52;UP;HARD;1;OK - 94.236.108.52: rta 147.137ms, lost 0%
+[1461138901] INITIAL HOST STATE: 94.236.108.53;UP;HARD;1;OK - 94.236.108.53: rta 145.631ms, lost 0%
+[1461138901] INITIAL HOST STATE: 94.236.108.54;DOWN;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138901] INITIAL SERVICE STATE: 134.213.185.28;PING;OK;HARD;1;OK - 134.213.185.28: rta 138.086ms, lost 0%
+[1461138901] INITIAL SERVICE STATE: 134.213.185.29;PING;OK;HARD;1;OK - 134.213.185.29: rta 141.425ms, lost 0%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.48;PING;OK;HARD;1;OK - 94.236.108.48: rta 145.994ms, lost 0%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.49;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.49: rta nan, lost 100%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.50;PING;OK;HARD;1;OK - 94.236.108.50: rta 141.600ms, lost 0%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.51;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.51: rta nan, lost 100%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.52;PING;OK;HARD;1;OK - 94.236.108.52: rta 141.466ms, lost 0%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.53;PING;OK;HARD;1;OK - 94.236.108.53: rta 140.350ms, lost 0%
+[1461138901] INITIAL SERVICE STATE: 94.236.108.54;PING;CRITICAL;HARD;1;CRITICAL - 94.236.108.54: rta nan, lost 100%
+[1461138938] Caught SIGTERM, shutting down...
+[1461138938] Successfully shutdown... (PID=22676)
+[1461138938] npcdmod: If you don't like me, I will go out! Bye.
+[1461138938] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461138938] livestatus: Socket thread has terminated
+[1461138938] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461138939] Nagios 3.5.0 starting... (PID=22804)
+[1461138939] Local time is Wed Apr 20 13:25:39 IST 2016
+[1461138939] LOG VERSION: 2.0
+[1461138939] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461138939] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461138939] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461138939] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461138939] npcdmod: Ready to run to have some fun!
+[1461138939] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461138939] livestatus: Setting number of client threads to 20
+[1461138939] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461138939] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461138939] livestatus: Please visit us at http://mathias-kettner.de/
+[1461138939] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461138939] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461138939] Finished daemonizing... (New PID=22805)
+[1461138939] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461138939] logging initial states
+[1461139609] Caught SIGTERM, shutting down...
+[1461139609] Successfully shutdown... (PID=22805)
+[1461139609] npcdmod: If you don't like me, I will go out! Bye.
+[1461139609] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461139612] livestatus: Socket thread has terminated
+[1461139612] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461139612] Nagios 3.5.0 starting... (PID=23177)
+[1461139612] Local time is Wed Apr 20 13:36:52 IST 2016
+[1461139612] LOG VERSION: 2.0
+[1461139612] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461139612] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461139612] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461139612] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461139612] npcdmod: Ready to run to have some fun!
+[1461139612] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461139612] livestatus: Setting number of client threads to 20
+[1461139612] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461139612] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461139612] livestatus: Please visit us at http://mathias-kettner.de/
+[1461139612] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461139612] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461139612] Finished daemonizing... (New PID=23178)
+[1461139612] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461139612] logging initial states
+[1461139749] Caught SIGTERM, shutting down...
+[1461139749] Successfully shutdown... (PID=23178)
+[1461139749] npcdmod: If you don't like me, I will go out! Bye.
+[1461139749] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461139750] livestatus: Socket thread has terminated
+[1461139750] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461139750] Nagios 3.5.0 starting... (PID=23365)
+[1461139750] Local time is Wed Apr 20 13:39:10 IST 2016
+[1461139750] LOG VERSION: 2.0
+[1461139750] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461139750] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461139750] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461139750] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461139750] npcdmod: Ready to run to have some fun!
+[1461139750] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461139750] livestatus: Setting number of client threads to 20
+[1461139750] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461139750] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461139750] livestatus: Please visit us at http://mathias-kettner.de/
+[1461139750] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461139750] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461139750] Finished daemonizing... (New PID=23366)
+[1461139750] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461139750] logging initial states
+[1461139815] Caught SIGTERM, shutting down...
+[1461139815] Successfully shutdown... (PID=23366)
+[1461139815] npcdmod: If you don't like me, I will go out! Bye.
+[1461139815] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461139816] livestatus: Socket thread has terminated
+[1461139816] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461139817] Nagios 3.5.0 starting... (PID=23464)
+[1461139817] Local time is Wed Apr 20 13:40:17 IST 2016
+[1461139817] LOG VERSION: 2.0
+[1461139817] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461139817] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461139817] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461139817] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461139817] npcdmod: Ready to run to have some fun!
+[1461139817] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461139817] livestatus: Setting number of client threads to 20
+[1461139817] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461139817] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461139817] livestatus: Please visit us at http://mathias-kettner.de/
+[1461139817] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461139817] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461139817] Finished daemonizing... (New PID=23465)
+[1461139817] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461139817] logging initial states
+[1461139817] INITIAL HOST STATE: server06-new.isb.edu;UP;HARD;1;
+[1461139817] INITIAL SERVICE STATE: server06-new.isb.edu;Check_MK Discovery;OK;HARD;1;(null)
+[1461139817] INITIAL SERVICE STATE: server06-new.isb.edu;PING;OK;HARD;1;(null)
+[1461139845] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.175ms, lost 0%
+[1461139845] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 316.175ms, lost 0%
+[1461139845] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 316.175ms, lost 0%
+[1461139853] SERVICE ALERT: server06-new.isb.edu;Check_MK Discovery;UNKNOWN;HARD;1;UNKNOWN - Cannot get data from TCP port 208.43.81.37:6556: [Errno 111] Connection refused
+[1461139853] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;Check_MK Discovery;UNKNOWN;mkeventd-notify-service;UNKNOWN - Cannot get data from TCP port 208.43.81.37:6556: [Errno 111] Connection refused
+[1461139853] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;Check_MK Discovery;UNKNOWN;check-mk-notify;UNKNOWN - Cannot get data from TCP port 208.43.81.37:6556: [Errno 111] Connection refused
+[1461139874] Caught SIGTERM, shutting down...
+[1461139874] Successfully shutdown... (PID=23465)
+[1461139874] npcdmod: If you don't like me, I will go out! Bye.
+[1461139874] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461139874] livestatus: Socket thread has terminated
+[1461139874] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461139875] Nagios 3.5.0 starting... (PID=23627)
+[1461139875] Local time is Wed Apr 20 13:41:15 IST 2016
+[1461139875] LOG VERSION: 2.0
+[1461139875] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461139875] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461139875] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461139875] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461139875] npcdmod: Ready to run to have some fun!
+[1461139875] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461139875] livestatus: Setting number of client threads to 20
+[1461139875] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461139875] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461139875] livestatus: Please visit us at http://mathias-kettner.de/
+[1461139875] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461139875] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461139875] Finished daemonizing... (New PID=23628)
+[1461139875] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461139875] logging initial states
+[1461140163] Caught SIGTERM, shutting down...
+[1461140163] Successfully shutdown... (PID=23628)
+[1461140163] npcdmod: If you don't like me, I will go out! Bye.
+[1461140163] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461140164] livestatus: Socket thread has terminated
+[1461140164] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461140164] Nagios 3.5.0 starting... (PID=23931)
+[1461140164] Local time is Wed Apr 20 13:46:04 IST 2016
+[1461140164] LOG VERSION: 2.0
+[1461140164] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461140164] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461140164] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461140164] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461140164] npcdmod: Ready to run to have some fun!
+[1461140164] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461140164] livestatus: Setting number of client threads to 20
+[1461140164] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461140164] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461140164] livestatus: Please visit us at http://mathias-kettner.de/
+[1461140164] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461140164] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461140164] Finished daemonizing... (New PID=23932)
+[1461140164] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461140164] logging initial states
+[1461140286] Caught SIGTERM, shutting down...
+[1461140286] Successfully shutdown... (PID=23932)
+[1461140286] npcdmod: If you don't like me, I will go out! Bye.
+[1461140286] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461140288] livestatus: Socket thread has terminated
+[1461140288] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461140288] Nagios 3.5.0 starting... (PID=24060)
+[1461140288] Local time is Wed Apr 20 13:48:08 IST 2016
+[1461140288] LOG VERSION: 2.0
+[1461140288] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461140288] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461140288] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461140288] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461140288] npcdmod: Ready to run to have some fun!
+[1461140288] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461140288] livestatus: Setting number of client threads to 20
+[1461140288] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461140288] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461140288] livestatus: Please visit us at http://mathias-kettner.de/
+[1461140288] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461140288] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461140288] Finished daemonizing... (New PID=24061)
+[1461140288] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461140288] logging initial states
+[1461140374] Caught SIGTERM, shutting down...
+[1461140374] Successfully shutdown... (PID=24061)
+[1461140374] npcdmod: If you don't like me, I will go out! Bye.
+[1461140374] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461140375] livestatus: Socket thread has terminated
+[1461140375] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461140375] Nagios 3.5.0 starting... (PID=24205)
+[1461140375] Local time is Wed Apr 20 13:49:35 IST 2016
+[1461140375] LOG VERSION: 2.0
+[1461140375] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461140375] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461140375] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461140375] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461140375] npcdmod: Ready to run to have some fun!
+[1461140375] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461140375] livestatus: Setting number of client threads to 20
+[1461140375] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461140375] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461140375] livestatus: Please visit us at http://mathias-kettner.de/
+[1461140375] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461140375] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461140375] Finished daemonizing... (New PID=24206)
+[1461140375] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461140375] logging initial states
+[1461140375] INITIAL HOST STATE: server06-new.isb.edu;UP;HARD;1;
+[1461140375] INITIAL SERVICE STATE: server06-new.isb.edu;PING;OK;HARD;1;(null)
+[1461140436] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.952ms, lost 0%
+[1461140436] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 315.952ms, lost 0%
+[1461140436] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 315.952ms, lost 0%
+[1461142395] Caught SIGTERM, shutting down...
+[1461142395] Successfully shutdown... (PID=24206)
+[1461142395] npcdmod: If you don't like me, I will go out! Bye.
+[1461142395] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461142395] livestatus: Socket thread has terminated
+[1461142395] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461142396] Nagios 3.5.0 starting... (PID=25494)
+[1461142396] Local time is Wed Apr 20 14:23:16 IST 2016
+[1461142396] LOG VERSION: 2.0
+[1461142396] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461142396] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461142396] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461142396] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461142396] npcdmod: Ready to run to have some fun!
+[1461142396] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461142396] livestatus: Setting number of client threads to 20
+[1461142396] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461142396] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461142396] livestatus: Please visit us at http://mathias-kettner.de/
+[1461142396] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461142396] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461142396] Finished daemonizing... (New PID=25495)
+[1461142396] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461142396] logging initial states
+[1461142396] INITIAL HOST STATE: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 315.876ms, lost 0%
+[1461142396] INITIAL SERVICE STATE: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.095ms, lost 0%
+[1461142541] Caught SIGTERM, shutting down...
+[1461142541] Successfully shutdown... (PID=25495)
+[1461142541] npcdmod: If you don't like me, I will go out! Bye.
+[1461142541] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' deinitialized successfully.
+[1461142542] livestatus: Socket thread has terminated
+[1461142542] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' deinitialized successfully.
+[1461142542] Nagios 3.5.0 starting... (PID=25641)
+[1461142542] Local time is Wed Apr 20 14:25:42 IST 2016
+[1461142542] LOG VERSION: 2.0
+[1461142542] npcdmod: Copyright (c) 2008-2009 Hendrik Baecker (andurin@process-zero.de) - http://www.pnp4nagios.org
+[1461142542] npcdmod: /omd/sites/Mysite/etc/pnp4nagios/npcd.cfg initialized
+[1461142542] npcdmod: spool_dir = '/omd/sites/Mysite/var/pnp4nagios/spool/'.
+[1461142542] npcdmod: perfdata file '/omd/sites/Mysite/var/pnp4nagios/perfdata.dump'.
+[1461142542] npcdmod: Ready to run to have some fun!
+[1461142542] Event broker module '/omd/sites/Mysite/lib/npcdmod.o' initialized successfully.
+[1461142542] livestatus: Setting number of client threads to 20
+[1461142542] livestatus: Check_MK Inventory directory '/omd/sites/Mysite/var/check_mk/inventory/' not existing!
+[1461142542] livestatus: Livestatus 1.2.6p16 by Mathias Kettner. Socket: '/omd/sites/Mysite/tmp/run/live'
+[1461142542] livestatus: Please visit us at http://mathias-kettner.de/
+[1461142542] livestatus: Finished initialization. Further log messages go to /omd/sites/Mysite/var/nagios/livestatus.log
+[1461142542] Event broker module '/omd/sites/Mysite/lib/mk-livestatus/livestatus.o' initialized successfully.
+[1461142542] Finished daemonizing... (New PID=25642)
+[1461142542] TIMEPERIOD TRANSITION: 24X7;-1;1
+[1461142542] logging initial states
+[1461142542] INITIAL HOST STATE: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 316.009ms, lost 0%
+[1461142542] INITIAL SERVICE STATE: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.955ms, lost 0%
+[1461146142] Auto-save of retention data completed successfully.
+[1461146483] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461146483] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461146483] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461146499] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461149742] Auto-save of retention data completed successfully.
+[1461152496] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.854ms, lost 0%
+[1461152496] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 315.891ms, lost 0%
+[1461152496] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 315.891ms, lost 0%
+[1461152496] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 315.891ms, lost 0%
+[1461152556] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 315.896ms, lost 0%
+[1461152556] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 315.896ms, lost 0%
+[1461153342] Auto-save of retention data completed successfully.
+[1461156942] Auto-save of retention data completed successfully.
+[1461156953] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461156953] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461156953] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461156999] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461157056] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.179ms, lost 0%
+[1461157078] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 316.215ms, lost 0%
+[1461157078] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 316.215ms, lost 0%
+[1461157078] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 316.215ms, lost 0%
+[1461157116] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 316.210ms, lost 0%
+[1461157116] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 316.210ms, lost 0%
+[1461160542] Auto-save of retention data completed successfully.
+[1461162279] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta 264.665ms, lost 80%
+[1461162279] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;CRITICAL;mkeventd-notify-service;CRITICAL - 208.43.81.37: rta 264.665ms, lost 80%
+[1461162279] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;CRITICAL;check-mk-notify;CRITICAL - 208.43.81.37: rta 264.665ms, lost 80%
+[1461162336] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.641ms, lost 0%
+[1461162336] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 316.641ms, lost 0%
+[1461162336] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 316.641ms, lost 0%
+[1461164142] Auto-save of retention data completed successfully.
+[1461167742] Auto-save of retention data completed successfully.
+[1461171342] Auto-save of retention data completed successfully.
+[1461172239] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta 315.975ms, lost 80%
+[1461172239] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;CRITICAL;mkeventd-notify-service;CRITICAL - 208.43.81.37: rta 315.975ms, lost 80%
+[1461172239] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;CRITICAL;check-mk-notify;CRITICAL - 208.43.81.37: rta 315.975ms, lost 80%
+[1461172243] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461172243] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461172243] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461172270] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 315.908ms, lost 0%
+[1461172270] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 315.908ms, lost 0%
+[1461172270] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 315.908ms, lost 0%
+[1461172296] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.881ms, lost 0%
+[1461172296] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 315.881ms, lost 0%
+[1461172296] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 315.881ms, lost 0%
+[1461174942] Auto-save of retention data completed successfully.
+[1461177000] TIMEPERIOD TRANSITION: 24X7;1;1

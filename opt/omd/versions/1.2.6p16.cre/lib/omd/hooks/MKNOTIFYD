@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Alias: Enable Check_MK Notification Spooler
+# Menu: Addons
+# Description: 
+# The Check_MK notification spooler allows asynchronous
+# notification handling (if you have long-running notifications)
+# and also centralized notification handling in a distributed
+# setup.
+
+case "$1" in
+    default)
+        echo "off"
+    ;;
+    choices)
+        echo "on: enable"
+        echo "off: disable"
+    ;;
+    set)
+        if [ "$2" = on ] ; then
+            enabled=True
+        else
+            enabled=False
+        fi
+        echo -e "# Set by OMD hook MKNOTIFYD, do not change here!\nmknotifyd_enabled = $enabled" \
+            > $OMD_ROOT/etc/check_mk/multisite.d/mknotifyd.mk
+    ;;
+esac

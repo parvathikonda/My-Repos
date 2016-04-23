@@ -1,0 +1,16 @@
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/Config.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/ExitResult.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/Functions.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/Getopt.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/Performance.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/Range.pm
+/var/tmp/p5_dist/dest/lib/perl5/Nagios/Plugin/Threshold.pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::Config.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::ExitResult.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::Functions.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::Getopt.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::Performance.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::Range.3pm
+/var/tmp/p5_dist/dest/man/man3/Nagios::Plugin::Threshold.3pm

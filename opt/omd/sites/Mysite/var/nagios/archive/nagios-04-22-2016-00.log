@@ -1,0 +1,90 @@
+[1461177000] LOG ROTATION: DAILY
+[1461177000] LOG VERSION: 2.0
+[1461177000] CURRENT HOST STATE: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 315.795ms, lost 0%
+[1461177000] CURRENT SERVICE STATE: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.805ms, lost 0%
+[1461177000] TIMEPERIOD TRANSITION: 24X7;1;1
+[1461178542] Auto-save of retention data completed successfully.
+[1461182142] Auto-save of retention data completed successfully.
+[1461185742] Auto-save of retention data completed successfully.
+[1461186980] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461186980] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461186980] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461187044] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 264.161ms, lost 20%
+[1461187044] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 264.161ms, lost 20%
+[1461187044] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 264.161ms, lost 20%
+[1461189342] Auto-save of retention data completed successfully.
+[1461189975] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461189975] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461189975] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461189999] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461190056] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.275ms, lost 0%
+[1461190100] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 316.391ms, lost 0%
+[1461190100] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 316.391ms, lost 0%
+[1461190100] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 316.391ms, lost 0%
+[1461190116] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 316.487ms, lost 0%
+[1461190116] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 316.487ms, lost 0%
+[1461192339] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461192339] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;CRITICAL;mkeventd-notify-service;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461192339] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;CRITICAL;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461192343] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461192343] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461192343] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461192421] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 315.948ms, lost 0%
+[1461192421] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 315.948ms, lost 0%
+[1461192421] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 315.948ms, lost 0%
+[1461192456] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 315.982ms, lost 0%
+[1461192456] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 315.982ms, lost 0%
+[1461192456] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 315.982ms, lost 0%
+[1461192942] Auto-save of retention data completed successfully.
+[1461196542] Auto-save of retention data completed successfully.
+[1461200142] Auto-save of retention data completed successfully.
+[1461203742] Auto-save of retention data completed successfully.
+[1461207342] Auto-save of retention data completed successfully.
+[1461207639] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461207639] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;CRITICAL;mkeventd-notify-service;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461207639] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;CRITICAL;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461207643] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461207643] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461207643] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461207735] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 316.229ms, lost 0%
+[1461207735] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 316.229ms, lost 0%
+[1461207735] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 316.229ms, lost 0%
+[1461207756] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.130ms, lost 0%
+[1461207756] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 316.130ms, lost 0%
+[1461207756] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 316.130ms, lost 0%
+[1461208419] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461208419] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;CRITICAL;mkeventd-notify-service;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461208419] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;CRITICAL;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461208476] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 314.614ms, lost 0%
+[1461208476] SERVICE FLAPPING ALERT: server06-new.isb.edu;PING;STARTED; Service appears to have started flapping (21.4% change >= 20.0% threshold)
+[1461208476] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;FLAPPINGSTART (WARNING);check-mk-notify;WARNING - 208.43.81.37: rta 314.614ms, lost 0%
+[1461209616] SERVICE FLAPPING ALERT: server06-new.isb.edu;PING;STOPPED; Service appears to have stopped flapping (3.8% change < 5.0% threshold)
+[1461209616] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;FLAPPINGSTOP (WARNING);check-mk-notify;WARNING - 208.43.81.37: rta 315.770ms, lost 0%
+[1461209616] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 315.770ms, lost 0%
+[1461209616] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 315.770ms, lost 0%
+[1461210942] Auto-save of retention data completed successfully.
+[1461214542] Auto-save of retention data completed successfully.
+[1461218142] Auto-save of retention data completed successfully.
+[1461221742] Auto-save of retention data completed successfully.
+[1461225342] Auto-save of retention data completed successfully.
+[1461228942] Auto-save of retention data completed successfully.
+[1461232542] Auto-save of retention data completed successfully.
+[1461236142] Auto-save of retention data completed successfully.
+[1461237936] HOST ALERT: server06-new.isb.edu;DOWN;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461237936] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;DOWN;mkeventd-notify-host;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461237936] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;DOWN;check-mk-notify;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461237939] SERVICE ALERT: server06-new.isb.edu;PING;CRITICAL;HARD;1;CRITICAL - 208.43.81.37: rta nan, lost 100%
+[1461237996] SERVICE ALERT: server06-new.isb.edu;PING;WARNING;HARD;1;WARNING - 208.43.81.37: rta 316.580ms, lost 0%
+[1461237997] HOST ALERT: server06-new.isb.edu;UP;HARD;1;WARNING - 208.43.81.37: rta 316.541ms, lost 0%
+[1461237997] HOST NOTIFICATION: mkeventd;server06-new.isb.edu;UP;mkeventd-notify-host;WARNING - 208.43.81.37: rta 316.541ms, lost 0%
+[1461237997] HOST NOTIFICATION: check-mk-notify;server06-new.isb.edu;UP;check-mk-notify;WARNING - 208.43.81.37: rta 316.541ms, lost 0%
+[1461238056] SERVICE NOTIFICATION: mkeventd;server06-new.isb.edu;PING;WARNING;mkeventd-notify-service;WARNING - 208.43.81.37: rta 316.609ms, lost 0%
+[1461238056] SERVICE NOTIFICATION: check-mk-notify;server06-new.isb.edu;PING;WARNING;check-mk-notify;WARNING - 208.43.81.37: rta 316.609ms, lost 0%
+[1461239742] Auto-save of retention data completed successfully.
+[1461243342] Auto-save of retention data completed successfully.
+[1461246942] Auto-save of retention data completed successfully.
+[1461250542] Auto-save of retention data completed successfully.
+[1461254142] Auto-save of retention data completed successfully.
+[1461257742] Auto-save of retention data completed successfully.
+[1461261342] Auto-save of retention data completed successfully.
+[1461263400] TIMEPERIOD TRANSITION: 24X7;1;1

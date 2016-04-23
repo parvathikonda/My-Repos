@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# Alias: Start Livestatus Proxy-Daemon
+# Menu: Distributed Monitoring
+# Description:
+#  This option enables the Livestatus Proxy-Daemon. It can improve
+#  stability of Multisite if you have a large number of sites with
+#  connections that sometimes break down.
+
+case "$1" in
+    default)
+        echo "on"
+    ;;
+    choices)
+        echo "on: enable"
+        echo "off: disable"
+    ;;
+    set)
+        if [ "$2" = on ] ; then
+            echo "liveproxyd_enabled = True" > $OMD_ROOT/etc/check_mk/multisite.d/liveproxyd.mk
+            enabled=True
+        else
+            echo "liveproxyd_enabled = False" > $OMD_ROOT/etc/check_mk/multisite.d/liveproxyd.mk
+            enabled=False
+        fi
+    ;;
+esac
